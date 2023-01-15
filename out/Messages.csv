@@ -1,0 +1,400 @@
+file,name,description
+files/ConfigMon_1.htm,ConfigMon 00001,Gruppi non disponibili per l'utente corrente
+files/Cross3Archive_24.htm,Cross3Archive 00024,Timeout in {0}!
+files/Cross3Archive_61.htm,Cross3Archive 00061,"L'archiviazione su ""{0}"" non è configurata!"
+files/Cross3Archive_69.htm,Cross3Archive 00069,Ripristino annullato! Mancano i seguenti pacchetti tecnologici nell'archivio ({0}) o nel controllo ({1})!
+files/CrossMeld_1.htm,KSS00001,ARRESTO D'EMERGENZA
+files/CrossMeld_10006.htm,KSS10006,{Nome istanza} Errore apertura file {Nome file}
+files/CrossMeld_10008.htm,KSS10008,{Nome istanza} Restart non viene eseguito perché non sono presenti errori.
+files/CrossMeld_10010.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/CrossMeld_10016.htm,KSS10016,{Nome istanza} bit qualità trasmissione attivato.
+files/CrossMeld_10019.htm,KSS10019,{Nome istanza} Restart già in esecuzione
+files/CrossMeld_10020.htm,KSS10020,{Nome istanza} Errore di accesso al gruppo di collegamento
+files/CrossMeld_10021.htm,KSS10021,{Nome istanza} in attesa di avvio 'esterno' dell'Interbus
+files/CrossMeld_10024.htm,KSS10024,{Nome istanza} Slave-ID della scheda ({Slave-ID della scheda}) diverso da quello nel file XML ({Slave-ID nel file XML})
+files/CrossMeld_10029.htm,KSS10029,{Nome istanza} Nessun circuito master o slave attivato
+files/CrossMeld_10033.htm,KSS10033,{Nome istanza} Errore di connessione al firmware
+files/CrossMeld_10043.htm,KSS10043,Timeout durante la creazione del collegamento all'apparecchio EIP {Nome}
+files/CrossMeld_10045.htm,KSS10045,Collegamento all'apparecchio EIP {Nome} interrotto.
+files/CrossMeld_10046.htm,KSS10046,Timeout durante la creazione del collegamento tra PLC e {Nome}
+files/CrossMeld_10047.htm,KSS10047,Interrotta connessione tra PLC e {Nome}
+files/CrossMeld_1005.htm,KSS01005,Nessuna memoria del sistema disponibile
+files/CrossMeld_10053.htm,KSS10053,Collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome} interrotto
+files/CrossMeld_10054.htm,KSS10054,Timeout durante la creazione del collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome}
+files/CrossMeld_1006.htm,KSS01006,Capacità memoria user esaurita
+files/CrossMeld_1007.htm,KSS01007,Il canale {Nome del canale} non può essere aperto
+files/CrossMeld_10072.htm,KSS10072,Sensore di temperatura {Nome sensore} ({Temperatura} °C) esterno al campo consentito.
+files/CrossMeld_1008.htm,KSS01008,Controller avviato a freddo
+files/CrossMeld_1009.htm,KSS01009,Conversione punto senza modello accuratezza assoluta non possibile.
+files/CrossMeld_10094.htm,KSS10094,{Nome istanza bus}: Errore di bus grave nella stazione {Modulo contenente errori}.
+files/CrossMeld_1038.htm,KSS01038,Modo operatore non valido
+files/CrossMeld_1039.htm,KSS01039,Movimento indietro non possibile: Traccia Vuota
+files/CrossMeld_1040.htm,KSS01040,Movimento indietro non possibile: nessuna Traccia
+files/CrossMeld_1044.htm,KSS01044,Freno difettoso {Asse}
+files/CrossMeld_106.htm,KSS00106,Eseguire calibrazione {Numero di asse}
+files/CrossMeld_1072.htm,KSS01072,Momento di mantenimento freno {Numero di asse} superato
+files/CrossMeld_1074.htm,KSS01074,Comando torsione motore {Numero di asse}
+files/CrossMeld_108.htm,KSS00108,Frenata dinamica attiva
+files/CrossMeld_11.htm,KSS00011,Programma troppo complesso stack pieno
+files/CrossMeld_1100.htm,KSS01100,Inattività {(Numero asse)}
+files/CrossMeld_1102.htm,KSS01102,Velocità nominale {Numero di asse}
+files/CrossMeld_1106.htm,KSS01106,Peso utensile non ancora appreso
+files/CrossMeld_112.htm,KSS00112,$TOOL non valido: sorveglianza dell'area di lavoro non possibile
+files/CrossMeld_1123.htm,KSS01123,Approssimazione non possibile in {Nome modulo@numero riga[:nome punto]} {Causa - opzionale}
+files/CrossMeld_1127.htm,KSS01127,Calibrazione eseguita {Numero di asse}
+files/CrossMeld_1133.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/CrossMeld_1137.htm,KSS01137,Distanza calibrazione EMD eccessiva
+files/CrossMeld_114.htm,KSS00114,Area di lavoro n. {Numero area di lavoro} violata.
+files/CrossMeld_1141.htm,KSS01141,TTS non esistente
+files/CrossMeld_115.htm,KSS00115,Liberare area di lavoro n. {Numero area di lavoro}.
+files/CrossMeld_1153.htm,KSS01153,Deviazione al punto iniziale di un movimento PTP
+files/CrossMeld_1155.htm,KSS01155,"Approssimazione non possibile, torsione eccessiva {+ (messaggio ridondante)}"
+files/CrossMeld_117.htm,KSS00117,Riconoscimento collisione asse {Numero asse}
+files/CrossMeld_1172.htm,KSS01172,"Il valore non può cambiare, il programma è selezionato"
+files/CrossMeld_1200.htm,KSS01200,Conf. ARRESTO D'EMERGENZA
+files/CrossMeld_12003.htm,KSS12003,Sovratemperatura trasformatore
+files/CrossMeld_12014.htm,KSS12014,Numero giri insufficiente del ventilatore esterno
+files/CrossMeld_12017.htm,KSS12017,Protezione operatore non confermata
+files/CrossMeld_12019.htm,KSS12019,Numero giri ventola PC sotto il limite di allarme
+files/CrossMeld_12023.htm,KSS12023,Temperatura resistenza zavorra ha raggiunto il limite di allarme
+files/CrossMeld_12032.htm,KSS12032,scostamento di posizione (controllo del movimento <-> controllo di sicurezza)
+files/CrossMeld_12038.htm,KSS12038,Monitoraggio della temperatura del trasformatore non attivato
+files/CrossMeld_1205.htm,KSS01205,Conf. sorveglianza ciclo di interpolazione {Numero di asse} {Task}
+files/CrossMeld_12053.htm,KSS12053,Il tipo di armadio configurato è incompatibile con la configurazione EtherCat
+files/CrossMeld_1211.htm,KSS01211,STOP a causa del finecorsa software {Direzione di spostamento} {Numero di asse}
+files/CrossMeld_1212.htm,KSS01212,Conf. protezione operatore/grata di protezione chiuse
+files/CrossMeld_127.htm,KSS00127,{Numero di asse} asse esterno asincrono
+files/CrossMeld_13008.htm,KSS13008,<{Nome istanza}> Errore bus Ethercat. {Parametro supplementare} {Parametro supplementare}
+files/CrossMeld_13011.htm,KSS13011,<{ID bus}> Errore di lettura file di configurazione [{Nome file XML}]
+files/CrossMeld_13012.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/CrossMeld_13013.htm,KSS13013,<ECat> Errore durante la creazione di istanze dello stack ECat
+files/CrossMeld_13015.htm,KSS13015,<{ID bus}> Errore rete Ethercat scansione bus. Dispositivo: {Apparecchio errato} [{Informazione addizionale}]
+files/CrossMeld_13016.htm,KSS13016,<{ID bus}> Mancata ricezione di frame di rete [{Dettagli}]
+files/CrossMeld_13018.htm,KSS13018,<{ID bus}> Errore di inizializzazione dello stack ECat. Apparecchio: {Apparecchio contenente errori} [{Informazioni addizionali}]
+files/CrossMeld_13020.htm,KSS13020,<{ID bus}> Errore bus Ethercat. Apparecchio: {Dettagli} [{Dettagli}]
+files/CrossMeld_13021.htm,KSS13021,<{ID bus}> Errore rete Ethercat. {Dettagli} [{Dettagli}]
+files/CrossMeld_13025.htm,KSS13025,"Mouse-6D spostato-mosso dalla posizione di zero, rilasciare e premere tasto uomo-morto."
+files/CrossMeld_13036.htm,KSS13036,Timeout consenso. Rilasciare il tasto di consenso e premerlo di nuovo.
+files/CrossMeld_13037.htm,KSS13037,"Impossibile avviare stack di controllo Profinet, numero errore:{Codice}"
+files/CrossMeld_13038.htm,KSS13038,"Impossibile avviare stack del dispositivo Profinet, codice errore: {Codice}"
+files/CrossMeld_13039.htm,KSS13039,Errore di inizializzazione del firmware Profinet
+files/CrossMeld_13040.htm,KSS13040,Errore di lettura di {File config.}
+files/CrossMeld_13041.htm,KSS13041,Errore di lettura dell'indirizzo MAC dal KLI
+files/CrossMeld_13064.htm,KSS13064,Lo stack EthernetIP non può essere impostato nello stato offline
+files/CrossMeld_13066.htm,KSS13066,Lo stack EthernetIP non può essere impostato nello stato online
+files/CrossMeld_13067.htm,KSS13067,Lo stack EthernetIP non può essere impostato nello stato in corso
+files/CrossMeld_13068.htm,KSS13068,<{Istanza bus}> Partecipante EtherCAT {Nome apparecchio} non collegato al bus.
+files/CrossMeld_13072.htm,KSS13072,Il driver IO EIP non riesce a rilevare l'indirizzo MAC del KLI
+files/CrossMeld_13073.htm,KSS13073,Il driver IO EIP non riesce a rilevare l'indirizzo IP del KLI
+files/CrossMeld_13074.htm,KSS13074,Il driver IO EIP non riesce a rilevare la maschera di sottorete del KLI
+files/CrossMeld_13080.htm,KSS13080,<{Istanza bus}> Apparecchio Ethercat: '{Nome dispositivo}' non può essere avviato. {Causa}
+files/CrossMeld_1309.htm,KSS01309,Oggetto inesistente
+files/CrossMeld_132.htm,KSS00132,Freno difettoso {Numero di asse}.
+files/CrossMeld_1323.htm,KSS01323,{Percorso} Nome modulo inammissibile
+files/CrossMeld_1342.htm,KSS01342,Errore campo di lavoro
+files/CrossMeld_1347.htm,KSS01347,Robot non calibrato
+files/CrossMeld_1349.htm,KSS01349,Robot calibrato
+files/CrossMeld_1350.htm,KSS01350,Arrivato al SAK
+files/CrossMeld_1355.htm,KSS01355,Azionare pulsante uomo morto
+files/CrossMeld_1356.htm,KSS01356,Premere tasto START
+files/CrossMeld_1358.htm,KSS01358,Selezione necessaria
+files/CrossMeld_1362.htm,KSS01362,STOP causato da cambio modalità operativa
+files/CrossMeld_1366.htm,KSS01366,Punti cartesiani non raggiungibili
+files/CrossMeld_1372.htm,KSS01372,Processo attivo
+files/CrossMeld_1375.htm,KSS01375,Comando non permesso
+files/CrossMeld_1376.htm,KSS01376,Comandi attivi bloccati
+files/CrossMeld_1384.htm,KSS01384,Parametro non processato
+files/CrossMeld_1388.htm,KSS01388,{Nome} Variabile protetta in scrittura nel modulo {Nome file} frase {Numero frase}
+files/CrossMeld_14000.htm,KSS14000,Tensione bus di comando disattivata
+files/CrossMeld_14001.htm,KSS14001,Conf. disattivazione tensione bus di comando
+files/CrossMeld_14005.htm,KSS14005,Boot non riuscito nel modulo: {Nome del modulo}
+files/CrossMeld_14009.htm,KSS14009,Boot non riuscito nel modulo: {Nome del modulo}
+files/CrossMeld_1401.htm,KSS01401,Struttura di controllo prossima frase {Numero frase}
+files/CrossMeld_14010.htm,KSS14010,Sistema ripristinato dal modo ibernazione
+files/CrossMeld_14011.htm,KSS14011,"Errore di boot nel file {Nome del file}, riga {Numero riga}: {Testo dell'errore}"
+files/CrossMeld_1402.htm,KSS01402,Scegliere avviamento
+files/CrossMeld_1409.htm,KSS01409,Nessun Trigger permesso in ISR oppure *.SUB
+files/CrossMeld_1411.htm,KSS01411,Selezione blocco oltre il buffer. Il prossimo avvio cancellera' il buffer
+files/CrossMeld_1421.htm,KSS01421,{Nome oggetto} : {Numero errore} Errore analisi
+files/CrossMeld_1422.htm,KSS01422,{Variabile $} valore non valido
+files/CrossMeld_1424.htm,KSS01424,Troppi programmi selezionati {Posizione}
+files/CrossMeld_1426.htm,KSS01426,Nidificazione delle variabili troppo profonda
+files/CrossMeld_1442.htm,KSS01442,Sequenza delle istruzioni non approssimabile {Nome modulo@numero riga dell'istruzione} {+ (messaggio ridondante)}
+files/CrossMeld_1443.htm,KSS01443,Movimento iniziale non permesso
+files/CrossMeld_1444.htm,KSS01444,Indice di campo non permesso: {Variabili} {ModuleLine}
+files/CrossMeld_1446.htm,KSS01446,Assegnazione del valore non permessa: {Assegnazione} {ModuleLine}
+files/CrossMeld_1447.htm,KSS01447,Punto non raggiungibile! Finecorsa software {Direzione di spostamento}{Numero di asse}
+files/CrossMeld_1456.htm,KSS01456,Punto iniziale uguale al punto finale
+files/CrossMeld_1457.htm,KSS01457,Punto iniziale e punto intermedio uguali
+files/CrossMeld_1458.htm,KSS01458,Punti intermedio e finale uguali
+files/CrossMeld_147.htm,KSS00147,Liberare area di lavoro dell'asse n. {Numero area di lavoro}
+files/CrossMeld_148.htm,KSS00148,Area di lavoro dell'asse n. {Numero area di lavoro} violata
+files/CrossMeld_149.htm,KSS00149,Velocità cartesiana ancora limitata in T2
+files/CrossMeld_15002.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/CrossMeld_15012.htm,KSS15012,Errore tasto di consenso
+files/CrossMeld_15014.htm,KSS15014,Errore di collegamento SmartPad
+files/CrossMeld_15016.htm,KSS15016,Conferma: Arresto per violazione del monitoraggio in stato di inattività
+files/CrossMeld_15018.htm,KSS15018,Conferma: superata velocità massima cartesiana nel modo T1
+files/CrossMeld_15019.htm,KSS15019,Conferma: superata velocità massima specifica per asse nel modo T1
+files/CrossMeld_15033.htm,KSS15033,Più di un utensile attivato nel controllo di sicurezza
+files/CrossMeld_15034.htm,KSS15034,Conferma: Più di un utensile attivato nel controllo di sicurezza
+files/CrossMeld_15035.htm,KSS15035,Nessun utensile attivato nel controllo di sicurezza
+files/CrossMeld_15036.htm,KSS15036,Conferma: Nessun utensile attivato nel controllo di sicurezza
+files/CrossMeld_15037.htm,KSS15037,Superamento campo cella
+files/CrossMeld_15039.htm,KSS15039,Conferma: Superata velocità massima cartesiana globale
+files/CrossMeld_15040.htm,KSS15040,Conferma: Superata velocità massima globale degli assi
+files/CrossMeld_15041.htm,KSS15041,Conferma: superata velocità cartesiana a riduzione sicura
+files/CrossMeld_15042.htm,KSS15042,Conferma: superata velocità assi a riduzione sicura
+files/CrossMeld_15045.htm,KSS15045,Errore interruttore di riferimento calibrazione
+files/CrossMeld_15046.htm,KSS15046,L’errore era sull’interruttore di riferimento calibrazione
+files/CrossMeld_15048.htm,KSS15048,Conferma: Intervallo di tempo per riferimento calibrazione scaduto
+files/CrossMeld_15049.htm,KSS15049,Riferimento calibrazione fallito
+files/CrossMeld_1505.htm,KSS01505,Combinazione delle variabili {Numero frase} non ammessa
+files/CrossMeld_15050.htm,KSS15050,Stop di riferimento
+files/CrossMeld_15051.htm,KSS15051,Conferma: posizione di riferimento calibrazione non raggiunta
+files/CrossMeld_15052.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/CrossMeld_15053.htm,KSS15053,Conf.: Gruppo di riferimento calibrazione n. {Numero del gruppo di riferimento} non referenziato
+files/CrossMeld_15054.htm,KSS15054,Sorveglianze campo di lavoro disattivate (errore di calibrazione)
+files/CrossMeld_15058.htm,KSS15058,Controllo in stato a prova di errori.
+files/CrossMeld_1506.htm,KSS01506,Parametri del cerchio non permessi
+files/CrossMeld_15065.htm,KSS15065,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/CrossMeld_15066.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/CrossMeld_15068.htm,KSS15068,Codice di attivazione della configurazione di sicurezza non corretto.
+files/CrossMeld_15074.htm,KSS15074,"Errore nel nodo di sicurezza dell'azionamento {Nome apparecchio}, canale {Numero canale}"
+files/CrossMeld_15079.htm,KSS15079,Violato campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/CrossMeld_1508.htm,KSS01508,Nessun modulo disponibile
+files/CrossMeld_15081.htm,KSS15081,Superato campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/CrossMeld_151.htm,KSS00151,La velocità impostata deve essere ancora confermata dopo aver premuto il tasto di consenso
+files/CrossMeld_15101.htm,KSS15101,Apparecchio sicuro {Apparecchio}: errore sull'ingresso {Ingresso}
+files/CrossMeld_15107.htm,KSS15107,Errore all'ingresso di conferma calibrazione
+files/CrossMeld_15108.htm,KSS15108,Errore all'ingresso di conferma calibrazione
+files/CrossMeld_15109.htm,KSS15109,Livello high inatteso all'ingresso di conferma calibrazione
+files/CrossMeld_15110.htm,KSS15110,Livello sull’ingresso conferma calibrazione imprevisto High
+files/CrossMeld_15111.htm,KSS15111,Monitoraggio tempo impulso violata conferma di calibrazione
+files/CrossMeld_15112.htm,KSS15112,Monitoraggio tempo di impulso conferma regolazione violato
+files/CrossMeld_15113.htm,KSS15113,Calibrazione confermata senza richiesta di riferimento
+files/CrossMeld_15114.htm,KSS15114,Calibrazione confermata senza richiesta di riferimento
+files/CrossMeld_15115.htm,KSS15115,Arresto di sicurezza Stop 1 dall'esterno
+files/CrossMeld_15117.htm,KSS15117,Arresto di sicurezza Stop 2 dall'esterno
+files/CrossMeld_15127.htm,KSS15127,Conf.: Arresto tramite sorveglianza zona di lavoro
+files/CrossMeld_15134.htm,KSS15134,Conf.: Arresto tramite controllo di sicurezza prima del superamento del campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/CrossMeld_15135.htm,KSS15135,Conf.: Arresto tramite controllo di sicurezza prima del superamento del campo cella.
+files/CrossMeld_15149.htm,KSS15149,"CIPS: NodeID errato (indirizzo IP), NodeID parametrizzato {NodeID parametrizzato} != NodeID ricevuto da PLC {NodeID ricevuto}."
+files/CrossMeld_1516.htm,KSS01516,Sistema di riferimento non programmato
+files/CrossMeld_1524.htm,KSS01524,Numero massimo di triggers attivi
+files/CrossMeld_1543.htm,KSS01543,"Tutti gli ingressi analogici, ciclici occupati"
+files/CrossMeld_1569.htm,KSS01569,"Modifica del parametro non permessa, canale occupato"
+files/CrossMeld_158.htm,KSS00158,Riduzione override a una velocità molto ridotta
+files/CrossMeld_159.htm,KSS00159,Errore bus IO KRC attivo per istanza bus: {Istanza bus}{Istanza bus}{Istanza bus}
+files/CrossMeld_1603.htm,KSS01603,Grata di protezione aperta
+files/CrossMeld_1608.htm,KSS01608,Assegnazione valore funzionale a $CYCFLAG non permesso {ModuleLine}
+files/CrossMeld_1609.htm,KSS01609,Assegnazione valore runtime a $CYCFLAG non permessa {ModuleLine}
+files/CrossMeld_1615.htm,KSS01615,'PRIO' 40-80 bloccato
+files/CrossMeld_20.htm,KSS00020,ARRESTO D'EMERGENZA esterno
+files/CrossMeld_200.htm,KSS00200,Gli azionamenti non sono pronti.
+files/CrossMeld_2004.htm,KSS02004,Attesa DEFDAT
+files/CrossMeld_2008.htm,KSS02008,Frase non può essere modificata
+files/CrossMeld_201.htm,KSS00201,Pulsante uomo morto rilasciato
+files/CrossMeld_2010.htm,KSS02010,Nome di una lista DAT non può essere modificato
+files/CrossMeld_2013.htm,KSS02013,Unused
+files/CrossMeld_2014.htm,KSS02014,Unused
+files/CrossMeld_203.htm,KSS00203,Abilitazione generale del movimento
+files/CrossMeld_2032.htm,KSS02032,Comando non permesso
+files/CrossMeld_2038.htm,KSS02038,Dichiarazione non è nella sezione di dichiarazione
+files/CrossMeld_2039.htm,KSS02039,Istruzione non è nella sezione di istruzione
+files/CrossMeld_2047.htm,KSS02047,Oggetto inesistente
+files/CrossMeld_205.htm,KSS00205,Finecorsa software {Direzione di spostamento} {Numero di asse}
+files/CrossMeld_2051.htm,KSS02051,Il nome nella prima riga deve essere uguale al nome del modulo
+files/CrossMeld_2052.htm,KSS02052,Nome del campo inserito non permesso
+files/CrossMeld_207.htm,KSS00207,Protezione operatore/grata di protezione aperte
+files/CrossMeld_2074.htm,KSS02074,Attesa indici crescenti
+files/CrossMeld_2078.htm,KSS02078,Attesa nome del segnale predefinito identico
+files/CrossMeld_2086.htm,KSS02086,Limite del campo mancante
+files/CrossMeld_2098.htm,KSS02098,Variabile non è dichiarata nella lista DAT
+files/CrossMeld_2106.htm,KSS02106,Non si può cancellare la frase
+files/CrossMeld_2125.htm,KSS02125,Componente non appartiene al tipo
+files/CrossMeld_2144.htm,KSS02144,Manca ENDLOOP
+files/CrossMeld_2162.htm,KSS02162,Carattere inserito errato
+files/CrossMeld_2187.htm,KSS02187,Serie di caratteri attesa
+files/CrossMeld_22.htm,KSS00022,Sovratemperatura mainboard
+files/CrossMeld_2255.htm,KSS02255,"Espressione diversa da CHAR, INT, ENUM"
+files/CrossMeld_2256.htm,KSS02256,"Operando diverso da INT, REAL"
+files/CrossMeld_2274.htm,KSS02274,Tipo parametro attuale/formale incompatibile
+files/CrossMeld_2275.htm,KSS02275,Tipo parametro attuale/formale incompatibile
+files/CrossMeld_2285.htm,KSS02285,Attesa nome del componente
+files/CrossMeld_2295.htm,KSS02295,Componenti del campo non possono essere indicati
+files/CrossMeld_2296.htm,KSS02296,Non è un nome della costante di questo tipo
+files/CrossMeld_2335.htm,KSS02335,Segnale composto più di 32 Bit
+files/CrossMeld_2352.htm,KSS02352,$OUT_C(n) non disponibile qui
+files/CrossMeld_2359.htm,KSS02359,L'uso di questa istruzione KRL non è permessa dentro a blocco spline.
+files/CrossMeld_2360.htm,KSS02360,Parametri superamento non permessi dentro a blocco spline
+files/CrossMeld_2363.htm,KSS02363,Distanza-trigger con movimento spline inammissibile
+files/CrossMeld_2380.htm,KSS02380,Istruzione in PTP_SPLINE non consentita.
+files/CrossMeld_249.htm,KSS00249,$MOVE_ENABLE Configurazione non consentita
+files/CrossMeld_25005.htm,KSS25005,EDS sull'apparecchio {Denominazione gruppo} è vuoto. Mancano dati di calibrazione (errore {Numero di errore interno}).
+files/CrossMeld_255.htm,KSS00255,{$Variabile} Valore non valido
+files/CrossMeld_26007.htm,KSS26007,Velocità reale permessa ecceduta ({Azionamento}).
+files/CrossMeld_26013.htm,KSS26013,Errore generico convertitore ({Azionamento}).
+files/CrossMeld_26015.htm,KSS26015,Errore generico alimentatore ({Alimentatore}).
+files/CrossMeld_26016.htm,KSS26016,Conf.: Regolatore posizione nella limitazione ({Azionamento}).
+files/CrossMeld_26017.htm,KSS26017,Regolatore posizione nella limitazione ({Azionamento}).
+files/CrossMeld_26032.htm,KSS26032,Errore: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26033.htm,KSS26033,Errore: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26034.htm,KSS26034,Errore: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/CrossMeld_26035.htm,KSS26035,Errore: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26036.htm,KSS26036,Errore: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26037.htm,KSS26037,Errore: tensione di alimentazione logica eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26039.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26040.htm,KSS26040,Errore: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26041.htm,KSS26041,Errore: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26042.htm,KSS26042,Errore: errore di comunicazione ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26046.htm,KSS26046,Errore: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26047.htm,KSS26047,Errore: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26050.htm,KSS26050,Errore: errore nel reostato di frenatura ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26051.htm,KSS26051,Errore: sovraccarico circuito zavorra ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26067.htm,KSS26067,"CF: Configurazione non valida ({Azionamento}) ({Tipo di errore e di parametro}, indice={Indice parametri})."
+files/CrossMeld_26091.htm,KSS26091,Superato limite max. variabile ritardo di posizionamento ({Azionamento}).
+files/CrossMeld_26104.htm,KSS26104,Avvertenza: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26105.htm,KSS26105,Avviso: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26106.htm,KSS26106,Avvertenza: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/CrossMeld_26107.htm,KSS26107,Avvertenza: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26108.htm,KSS26108,Avvertenza: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26111.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26112.htm,KSS26112,Avvertenza: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26113.htm,KSS26113,Avvertenza: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26114.htm,KSS26114,Avvertenza: errore di comunicazione ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26118.htm,KSS26118,Avvertenza: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26119.htm,KSS26119,Avvertenza: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26122.htm,KSS26122,Avvertenza: errore nel reostato di frenatura ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26123.htm,KSS26123,Avvertenza: sovraccarico circuito zavorra ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26128.htm,KSS26128,Nessun collegamento con EMD
+files/CrossMeld_26129.htm,KSS26129,Tacca di calibrazione sporca o danneggiata
+files/CrossMeld_26132.htm,KSS26132,Errore: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26133.htm,KSS26133,Avvertenza: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26157.htm,KSS26157,Conf.: Errore: carica del circuito intermedio fallita ({Tipo di apparecchio}) ({Numero}).
+files/CrossMeld_26173.htm,KSS26173,Massima forza permessa ecceduta ({Azionamento}).
+files/CrossMeld_26177.htm,KSS26177,Incremento valore forza nel controllo forza mancante ({Azionamento}).
+files/CrossMeld_26194.htm,KSS26194,Calibrazione non consentita nello stato disaccoppiato {Azionamento}
+files/CrossMeld_26195.htm,KSS26195,Disaccoppiamento impossibile ({Azionamento}).
+files/CrossMeld_26196.htm,KSS26196,Errore su assi accoppiati ({Azionamento}) ({Tipo errore}).
+files/CrossMeld_26197.htm,KSS26197,Non disponibile motore {Motore} per accoppiamento ad azionamento {Azionamento}.
+files/CrossMeld_26217.htm,KSS26217,Conf.: Tempo frenatura dinamica ({Azionamento}).
+files/CrossMeld_26218.htm,KSS26218,Tempo frenatura dinamica {Tempo frenatura dinamica} sec. ({Azionamento}).
+files/CrossMeld_26230.htm,KSS26230,Errore: Cortocircuito tiristore di carico ({Tipo di apparecchio}) ({Numero})
+files/CrossMeld_26252.htm,KSS26252,Inizializzazione dell'azionamento errata ({Numero apparecchio}).
+files/CrossMeld_26271.htm,KSS26271,Conf.: Caricamento non riuscito (alimentatore {Alimentatore})
+files/CrossMeld_263.htm,KSS00263,Dati cambiati difettosi
+files/CrossMeld_264.htm,KSS00264,{Percorso} Caricamento dati di correzione interrotto
+files/CrossMeld_27001.htm,KSS27001,Il freno{Freno n.}{Asse n.} ha raggiunto il limite di usura
+files/CrossMeld_27002.htm,KSS27002,Verifica ciclica per richiesta test freno non rispettata
+files/CrossMeld_27004.htm,KSS27004,Test freni necessario
+files/CrossMeld_27007.htm,KSS27007,Momento di mantenimento freno{Freno n.}{Asse n.} insufficiente
+files/CrossMeld_27009.htm,KSS27009,Efficacia freno{Freno n.}{Asse n.} OK
+files/CrossMeld_27010.htm,KSS27010,Impossibile verificare efficacia del freno{Freno}{Asse}
+files/CrossMeld_27011.htm,KSS27011,Test freno{Freno}{Asse} eseguito non completamente
+files/CrossMeld_27012.htm,KSS27012,Test freno riuscito
+files/CrossMeld_27014.htm,KSS27014,Dati configurazione non validi per il freno{Freno}{Asse} (codice errore {Codice di errore})
+files/CrossMeld_27017.htm,KSS27017,L'attrito ostacola la verifica del freno{Freno}{Asse}
+files/CrossMeld_27018.htm,KSS27018,Nessun intervento del freno{Freno}{Asse} rilevato
+files/CrossMeld_27019.htm,KSS27019,"Piena coppia del freno{Freno}{Asse} non verificabile, raggiunta coppia di tenuta motore"
+files/CrossMeld_27020.htm,KSS27020,Gli assi asincroni impediscono l'esecuzione del test freni
+files/CrossMeld_27021.htm,KSS27021,Gli assi simulati impediscono l'esecuzione del test freni
+files/CrossMeld_27022.htm,KSS27022,Il modo operativo T1 impedisce l'esecuzione del test freni
+files/CrossMeld_27023.htm,KSS27023,Riduzione automatica del fattore di sicurezza per il freno{Freno}{Asse}
+files/CrossMeld_2710.htm,KSS02710,{Nome modulo} troppi sottoprogrammi locali
+files/CrossMeld_272.htm,KSS00272,Numero robot non programmato.
+files/CrossMeld_276.htm,KSS00276,Dati macchina errati per questo robot
+files/CrossMeld_277.htm,KSS00277,Riposizionamento automatico
+files/CrossMeld_2807.htm,KSS02807,Bloccaggio di sicurezza intervenuto. Il programma attende '{WorkspaceName}' dal programma '{RemoteProgram}' ({RemoteKrc})
+files/CrossMeld_2808.htm,KSS02808,Area di lavoro {ws name} non è in sequenza esatta. Può provocare un blocco di sicurezza.
+files/CrossMeld_2809.htm,KSS02809,L'area di lavoro {ws name} non esiste su {KRC name}
+files/CrossMeld_2810.htm,KSS02810,Questa area di lavoro non è stata definita
+files/CrossMeld_2812.htm,KSS02812,Area di lavoro '{workspace name}' non riuscita - Connessione a {krc name} non possibile
+files/CrossMeld_2813.htm,KSS02813,L'area di lavoro {ws name} non è riservata ad alcun programma.
+files/CrossMeld_2814.htm,KSS02814,Area di lavoro '{ws name}' attualmente riservata ad un altro programma
+files/CrossMeld_2815.htm,KSS02815,La definizione Area di lavoro è cambiata. Il programma deve essere aggiornato.
+files/CrossMeld_2821.htm,KSS02821,$ORI_TYPE impostata implicita #VAR
+files/CrossMeld_2825.htm,KSS02825,Il programma submit non può eseguire comandi di condivisione della zona lavoro.
+files/CrossMeld_2829.htm,KSS02829,OriJoint non possibile: configurazione delle posizioni inizio e fine differenti
+files/CrossMeld_2857.htm,KSS02857,Sistema ripristinato dal modo ibernazione
+files/CrossMeld_2865.htm,KSS02865,Massimo numero di richieste area lavoro tra due istruzioni di movimento.
+files/CrossMeld_2866.htm,KSS02866,Richieste di area lavoro non possono essere eseguite con Trigger
+files/CrossMeld_2868.htm,KSS02868,Posizione di destinazione PTP in singolarità {Denomínazione della singolarità}
+files/CrossMeld_287.htm,KSS00287,Errore ventola PC
+files/CrossMeld_2871.htm,KSS02871,Richiesta zona lavoro '{ws_name}' fallita.
+files/CrossMeld_2923.htm,KSS02923,istruzione non permessa dentro blocco spline
+files/CrossMeld_2936.htm,KSS02936,$CP_STATMON: angolo asse errato
+files/CrossMeld_2937.htm,KSS02937,$CP_STATMON: Approssimazione non possibile
+files/CrossMeld_2940.htm,KSS02940,Limite Cycflag simultaneamente attivi ({Numero}) superato {ModuleLine}
+files/CrossMeld_2972.htm,KSS02972,Errore checksum nel file {Nome file}
+files/CrossMeld_2997.htm,KSS02997,Jogging non permesso: pulsante Start premuto
+files/CrossMeld_2998.htm,KSS02998,Movimento asincrono attivo
+files/CrossMeld_3.htm,KSS00003,Memoria tampone messaggi piena
+files/CrossMeld_3009.htm,KSS03009,Proprietà di {Denominazione area di lavoro} persa - (cold booted controller)
+files/CrossMeld_301.htm,KSS00301,Stop durante misurazione attiva-movimento consid.come test
+files/CrossMeld_304.htm,KSS00304,Messa in servizio
+files/CrossMeld_3070.htm,KSS03070,File mam non disponibile. Errore {Causa dell'errore}
+files/CrossMeld_309.htm,KSS00309,Selezione blocco: necessario ricercare SAK in T1/T2
+files/CrossMeld_3094.htm,KSS03094,"$ORI_TYPE=#IGNORE non ammesso, causa {Causa}"
+files/CrossMeld_3122.htm,KSS03122,$CIRC_MODE programmato in modo errato (regola {Causa} violata).
+files/CrossMeld_3129.htm,KSS03129,Protezione operatore confermata
+files/CrossMeld_313.htm,KSS00313,"Errore interno (file: {Nome file}, riga: {Numero riga}, valore: {Valore di ritorno})"
+files/CrossMeld_3157.htm,KSS03157,{Nome del modulo} : Nome più lungo di 24 caratteri
+files/CrossMeld_3158.htm,KSS03158,{Nome del modulo} : Nome modulo inammissibile.
+files/CrossMeld_3166.htm,KSS03166,Start a freddo iniziale
+files/CrossMeld_3170.htm,KSS03170,Asse {Asse} non in posizione di zero meccanico
+files/CrossMeld_3171.htm,KSS03171,Velocità 0m/s nel punto {Nome modulo@numero riga[:nome punto] del movimento} (punti di inizio e di fine identici)
+files/CrossMeld_3186.htm,KSS03186,Azionamenti scaricati (causa: {Causa della scarica})
+files/CrossMeld_3191.htm,KSS03191,Sensori attivi non possibili durante {Funzionalità incompatibile}
+files/CrossMeld_3193.htm,KSS03193,Conf.: Arresto del robot tramite Submit
+files/CrossMeld_3199.htm,KSS03199,SETINFO su {Nome variabile KRL} ({Luogo di dichiarazione}) sospeso
+files/CrossMeld_320.htm,KSS00320,Assi sono simulati {Bitmask of simulated axes}
+files/CrossMeld_3200.htm,KSS03200,Azione non ammessa con il programma robot selezionato
+files/CrossMeld_3201.htm,KSS03201,Superato errore di posizionamento {Numero asse} durante modalità di coppia
+files/CrossMeld_3214.htm,KSS03214,$VEL.CP = {Velocità programmata}m/s nel settore CONST_VEL non realizzabile per riduzione di velocità a {Velocità raggiunta}m/s in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante}.
+files/CrossMeld_3215.htm,KSS03215,CONST_VEL non realizzabile per riduzione di velocità a 0m/s in movimento in {Nome modulo@numero riga[:nome punto] del segmento causante}.
+files/CrossMeld_3216.htm,KSS03216,La via di accelerazione per CONST_VEL START in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/CrossMeld_3217.htm,KSS03217,La distanza di frenata per CONST_VEL END in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/CrossMeld_3230.htm,KSS03230,"L’arresto condizionato in {Nome modulo@n.riga, dov’è programmata la condizione di arresto} per movimento in {Nome modulo@numero riga del movimento attribuito [:nome punto]} si attiva in ritardo"
+files/CrossMeld_3236.htm,KSS03236,Impossibile avviare attualmente la misurazione dell'energia.
+files/CrossMeld_3237.htm,KSS03237,Una misurazione dell'energia è già attiva
+files/CrossMeld_3238.htm,KSS03238,Impossibile arrestare attualmente la misurazione dell'energia.
+files/CrossMeld_3246.htm,KSS03246,Conf.: Accoppiamento/disaccoppiamento non consentito per asse {Asse}
+files/CrossMeld_3260.htm,KSS03260,Riconfigurazione impossibile nello stato BUSPOWER OFF
+files/CrossMeld_3263.htm,KSS03263,Durata max. di frenata in MADA ($RED_ACC_EMX) e controllo di sicurezza inconsistenti
+files/CrossMeld_3266.htm,KSS03266,Confermare per proseguire il funzionamento di T2 con velocità impostata.
+files/CrossMeld_3273.htm,KSS03273,Spline troppo lunga
+files/CrossMeld_3275.htm,KSS03275,I moti di avanzamento nel PalMode sono consentiti solo con frasi singole PTP e SPTP.
+files/CrossMeld_3297.htm,KSS03297,Asse {Indice asse} in limitazione di coppia
+files/CrossMeld_3329.htm,KSS03329,"Assegnazione a $MOTION_MODE non permessa, Motion Mode {Motion Mode specifico} non installata {ModuleLine}"
+files/CrossMeld_336.htm,KSS00336,Pacchetto Motion Cooperation non installato
+files/CrossMeld_37026.htm,KSS37026,"Elemento di catalogo per la regolazione non aggiornato (nexxtCtrl: {Azionamento}, {testarg_2}, {testarg_3})"
+files/CrossMeld_375.htm,KSS00375,Riscaldamento attivo
+files/CrossMeld_404.htm,KSS00404,Arresto di sicurezza
+files/CrossMeld_416.htm,KSS00416,Spegnimento controller ….
+files/CrossMeld_426.htm,KSS00426,"Mouse-6D spostato-mosso dalla posizione di zero, rilasciare e premere tasto uomo-morto"
+files/CrossMeld_455.htm,KSS00455,Errore di lettura di {File XML}
+files/CrossMeld_470.htm,KSS00470,Riduzione Safe robot override attiva
+files/CrossMeld_474.htm,KSS00474,"{Nome iosys.ini} Sezione[{Nome sezione}] riga {Riga errata}, intervallo indirizzi errato"
+files/CrossMeld_6503.htm,KSS06503,Errore di configurazione driver I/O {Nome driver}
+files/CrossMeld_67.htm,KSS00067,Confermare protezione operatore
+files/CrossMeld_68.htm,KSS00068,Manca consenso alla partenza
+files/CrossMeld_72.htm,KSS00072,RESUME non ammesso per interrupt globali
+files/CrossMeld_81.htm,KSS00081,Arresto del robot tramite Submit
+files/CrossMeld_82.htm,KSS00082,Arresto del robot tramite Submit
+files/CrossMeld_99.htm,KSS00099,Errore in lettura/scrittura: {Istanza bus}
+files/MadaConfiguration_7.htm,MadaConfiguration 00007,Non esistono parametri servo Supply per {0} con un’intensità del resistore di {1}
+files/Navigator_30.htm,Navigator 00030,Ripristino non riuscito
+files/Navigator_4.htm,Navigator 00004,Errore archiviazione
+files/RobotData_31.htm,RobotData 00031,Nessun collegamento possibile all'RDC (errore bus ecc.)
+files/safetyconfigsmarthmiimpl_updatemadarequest.htm,SafetyConfigSmartHmiImpl  UpdateMadaRequest,I dati macchina della configurazione di sicurezza sono diversi dai dati su questo controllo. Aggiornare la configurazione di sicurezza? (consigliato)
+files/Simulate_3.htm,Simulate 00003,In attesa di {Espressione}
+files/smarthmi_dialogmessageopenviewfailure.htm,SmartHMI  DialogMessageOpenViewFailure,Il modulo [{0}] non può essere caricato poiché si è verificato un errore durante l'inizializzazione di questa componente.
+files/SubmitControl_10.htm,SubmitControl 00010,"Interpreter {Modulo submit} non disponibile. ""Seleziona/Avvia"" non possibile."
+files/TechHandler_21.htm,TEC00021,Touchup impossibile. Distanza cartesiana eccessiva.
+files/TechHandler_22.htm,TEC00022,Touchup impossibile. Modifica di orientamento eccessiva.
+files/TechHandler_23.htm,TEC00023,Touchup impossibile. Distanza assi esterni eccessiva.
+files/TPBASIS_103.htm,TPBASIS 00103,Touchup impossibile. Distanza cartesiana {0} eccessiva.
+files/TPBASIS_104.htm,TPBASIS 00104,Touchup impossibile. Modifica orientamento {0} eccessiva.
+files/TPBASIS_123.htm,TPBASIS 00123,Copiare i contenuti del blocco Spline separatamente.
+files/VwInlineForms_110.htm,TVW00110,Macro di inizializzazione macro{MakroNumberSpecialRun} non disponibile. Inizializzazione impossibile.

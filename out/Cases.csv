@@ -1,0 +1,623 @@
+file,name,description
+files/Cases\Case_CA10023.htm,KSS01044,Freno difettoso {Asse}
+files/Cases\Case_CA10059.htm,KSS00276,Dati macchina errati per questo robot
+files/Cases\Case_CA10143.htm,KSS15109,Livello high inatteso all'ingresso di conferma calibrazione
+files/Cases\Case_CA10144.htm,KSS15111,Monitoraggio tempo impulso violata conferma di calibrazione
+files/Cases\Case_CA10145.htm,KSS15113,Calibrazione confermata senza richiesta di riferimento
+files/Cases\Case_CA10153.htm,TPBASIS 00123,Copiare i contenuti del blocco Spline separatamente.
+files/Cases\Case_CA10159.htm,KSS00117,Riconoscimento collisione asse {Numero asse}
+files/Cases\Case_CA10160.htm,KSS26177,Incremento valore forza nel controllo forza mancante ({Azionamento}).
+files/Cases\Case_CA10162.htm,KSS00117,Riconoscimento collisione asse {Numero asse}
+files/Cases\Case_CA10163.htm,KSS26177,Incremento valore forza nel controllo forza mancante ({Azionamento}).
+files/Cases\Case_CA10165.htm,KSS00117,Riconoscimento collisione asse {Numero asse}
+files/Cases\Case_CA10330.htm,KSS15109,Livello high inatteso all'ingresso di conferma calibrazione
+files/Cases\Case_CA10331.htm,KSS15113,Calibrazione confermata senza richiesta di riferimento
+files/Cases\Case_CA10332.htm,KSS15107,Errore all'ingresso di conferma calibrazione
+files/Cases\Case_CA10452.htm,KSS01402,Scegliere avviamento
+files/Cases\Case_CA10467.htm,KSS26016,Conf.: Regolatore posizione nella limitazione ({Azionamento}).
+files/Cases\Case_CA10489.htm,KSS15014,Errore di collegamento SmartPad
+files/Cases\Case_CA10515.htm,KSS26015,Errore generico alimentatore ({Alimentatore}).
+files/Cases\Case_CA10612.htm,KSS15074,"Errore nel nodo di sicurezza dell'azionamento {Nome apparecchio}, canale {Numero canale}"
+files/Cases\Case_CA10618.htm,KSS26013,Errore generico convertitore ({Azionamento}).
+files/Cases\Case_CA10669.htm,KSS00099,Errore in lettura/scrittura: {Istanza bus}
+files/Cases\Case_CA10715.htm,KSS12023,Temperatura resistenza zavorra ha raggiunto il limite di allarme
+files/Cases\Case_CA10717.htm,KSS12014,Numero giri insufficiente del ventilatore esterno
+files/Cases\Case_CA10721.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA10760.htm,KSS12019,Numero giri ventola PC sotto il limite di allarme
+files/Cases\Case_CA10768.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA10874.htm,KSS10072,Sensore di temperatura {Nome sensore} ({Temperatura} °C) esterno al campo consentito.
+files/Cases\Case_CA10908.htm,KSS10072,Sensore di temperatura {Nome sensore} ({Temperatura} °C) esterno al campo consentito.
+files/Cases\Case_CA10931.htm,RobotData 00031,Nessun collegamento possibile all'RDC (errore bus ecc.)
+files/Cases\Case_CA11241.htm,KSS00158,Riduzione override a una velocità molto ridotta
+files/Cases\Case_CA11344.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA11347.htm,KSS15018,Conferma: superata velocità massima cartesiana nel modo T1
+files/Cases\Case_CA11357.htm,KSS27004,Test freni necessario
+files/Cases\Case_CA11367.htm,KSS01615,'PRIO' 40-80 bloccato
+files/Cases\Case_CA11369.htm,KSS01608,Assegnazione valore funzionale a $CYCFLAG non permesso {ModuleLine}
+files/Cases\Case_CA11371.htm,KSS01609,Assegnazione valore runtime a $CYCFLAG non permessa {ModuleLine}
+files/Cases\Case_CA11380.htm,KSS00426,"Mouse-6D spostato-mosso dalla posizione di zero, rilasciare e premere tasto uomo-morto"
+files/Cases\Case_CA11381.htm,KSS13025,"Mouse-6D spostato-mosso dalla posizione di zero, rilasciare e premere tasto uomo-morto."
+files/Cases\Case_CA11382.htm,KSS01040,Movimento indietro non possibile: nessuna Traccia
+files/Cases\Case_CA11384.htm,KSS01411,Selezione blocco oltre il buffer. Il prossimo avvio cancellera' il buffer
+files/Cases\Case_CA11385.htm,KSS01411,Selezione blocco oltre il buffer. Il prossimo avvio cancellera' il buffer
+files/Cases\Case_CA11386.htm,KSS01039,Movimento indietro non possibile: Traccia Vuota
+files/Cases\Case_CA11393.htm,KSS00201,Pulsante uomo morto rilasciato
+files/Cases\Case_CA11395.htm,KSS00201,Pulsante uomo morto rilasciato
+files/Cases\Case_CA11400.htm,KSS01106,Peso utensile non ancora appreso
+files/Cases\Case_CA11402.htm,KSS01409,Nessun Trigger permesso in ISR oppure *.SUB
+files/Cases\Case_CA11403.htm,KSS01137,Distanza calibrazione EMD eccessiva
+files/Cases\Case_CA11405.htm,KSS01137,Distanza calibrazione EMD eccessiva
+files/Cases\Case_CA11408.htm,KSS01211,STOP a causa del finecorsa software {Direzione di spostamento} {Numero di asse}
+files/Cases\Case_CA11422.htm,KSS14001,Conf. disattivazione tensione bus di comando
+files/Cases\Case_CA11425.htm,KSS26013,Errore generico convertitore ({Azionamento}).
+files/Cases\Case_CA11429.htm,KSS14009,Boot non riuscito nel modulo: {Nome del modulo}
+files/Cases\Case_CA11439.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA11442.htm,KSS03191,Sensori attivi non possibili durante {Funzionalità incompatibile}
+files/Cases\Case_CA11447.htm,KSS26177,Incremento valore forza nel controllo forza mancante ({Azionamento}).
+files/Cases\Case_CA11459.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA11480.htm,KSS00277,Riposizionamento automatico
+files/Cases\Case_CA11486.htm,KSS00375,Riscaldamento attivo
+files/Cases\Case_CA11489.htm,KSS01009,Conversione punto senza modello accuratezza assoluta non possibile.
+files/Cases\Case_CA11495.htm,TEC00022,Touchup impossibile. Modifica di orientamento eccessiva.
+files/Cases\Case_CA11496.htm,TEC00021,Touchup impossibile. Distanza cartesiana eccessiva.
+files/Cases\Case_CA11497.htm,TPBASIS 00104,Touchup impossibile. Modifica orientamento {0} eccessiva.
+files/Cases\Case_CA11498.htm,TEC00023,Touchup impossibile. Distanza assi esterni eccessiva.
+files/Cases\Case_CA11499.htm,TPBASIS 00103,Touchup impossibile. Distanza cartesiana {0} eccessiva.
+files/Cases\Case_CA11500.htm,TEC00022,Touchup impossibile. Modifica di orientamento eccessiva.
+files/Cases\Case_CA11501.htm,TEC00021,Touchup impossibile. Distanza cartesiana eccessiva.
+files/Cases\Case_CA11502.htm,TPBASIS 00104,Touchup impossibile. Modifica orientamento {0} eccessiva.
+files/Cases\Case_CA11503.htm,TEC00023,Touchup impossibile. Distanza assi esterni eccessiva.
+files/Cases\Case_CA11504.htm,TPBASIS 00103,Touchup impossibile. Distanza cartesiana {0} eccessiva.
+files/Cases\Case_CA11531.htm,KSS15058,Controllo in stato a prova di errori.
+files/Cases\Case_CA11536.htm,SafetyConfigSmartHmiImpl  UpdateMadaRequest,I dati macchina della configurazione di sicurezza sono diversi dai dati su questo controllo. Aggiornare la configurazione di sicurezza? (consigliato)
+files/Cases\Case_CA11538.htm,KSS00081,Arresto del robot tramite Submit
+files/Cases\Case_CA11540.htm,KSS00082,Arresto del robot tramite Submit
+files/Cases\Case_CA11542.htm,KSS03193,Conf.: Arresto del robot tramite Submit
+files/Cases\Case_CA11545.htm,KSS15012,Errore tasto di consenso
+files/Cases\Case_CA11578.htm,KSS03297,Asse {Indice asse} in limitazione di coppia
+files/Cases\Case_CA11597.htm,KSS00114,Area di lavoro n. {Numero area di lavoro} violata.
+files/Cases\Case_CA11598.htm,KSS00114,Area di lavoro n. {Numero area di lavoro} violata.
+files/Cases\Case_CA11603.htm,KSS01384,Parametro non processato
+files/Cases\Case_CA11619.htm,KSS01375,Comando non permesso
+files/Cases\Case_CA11621.htm,KSS01172,"Il valore non può cambiare, il programma è selezionato"
+files/Cases\Case_CA11629.htm,KSS00264,{Percorso} Caricamento dati di correzione interrotto
+files/Cases\Case_CA11641.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA11653.htm,KSS02866,Richieste di area lavoro non possono essere eseguite con Trigger
+files/Cases\Case_CA11654.htm,KSS02815,La definizione Area di lavoro è cambiata. Il programma deve essere aggiornato.
+files/Cases\Case_CA11657.htm,KSS02810,Questa area di lavoro non è stata definita
+files/Cases\Case_CA11658.htm,KSS02871,Richiesta zona lavoro '{ws_name}' fallita.
+files/Cases\Case_CA11660.htm,KSS02809,L'area di lavoro {ws name} non esiste su {KRC name}
+files/Cases\Case_CA11662.htm,KSS02865,Massimo numero di richieste area lavoro tra due istruzioni di movimento.
+files/Cases\Case_CA11664.htm,KSS02814,Area di lavoro '{ws name}' attualmente riservata ad un altro programma
+files/Cases\Case_CA11666.htm,KSS02813,L'area di lavoro {ws name} non è riservata ad alcun programma.
+files/Cases\Case_CA11668.htm,KSS02812,Area di lavoro '{workspace name}' non riuscita - Connessione a {krc name} non possibile
+files/Cases\Case_CA11670.htm,KSS02812,Area di lavoro '{workspace name}' non riuscita - Connessione a {krc name} non possibile
+files/Cases\Case_CA11673.htm,KSS03009,Proprietà di {Denominazione area di lavoro} persa - (cold booted controller)
+files/Cases\Case_CA11675.htm,KSS02807,Bloccaggio di sicurezza intervenuto. Il programma attende '{WorkspaceName}' dal programma '{RemoteProgram}' ({RemoteKrc})
+files/Cases\Case_CA11677.htm,KSS02807,Bloccaggio di sicurezza intervenuto. Il programma attende '{WorkspaceName}' dal programma '{RemoteProgram}' ({RemoteKrc})
+files/Cases\Case_CA11679.htm,KSS02808,Area di lavoro {ws name} non è in sequenza esatta. Può provocare un blocco di sicurezza.
+files/Cases\Case_CA11681.htm,KSS02821,$ORI_TYPE impostata implicita #VAR
+files/Cases\Case_CA11682.htm,KSS02825,Il programma submit non può eseguire comandi di condivisione della zona lavoro.
+files/Cases\Case_CA11686.htm,KSS26017,Regolatore posizione nella limitazione ({Azionamento}).
+files/Cases\Case_CA11695.htm,KSS01603,Grata di protezione aperta
+files/Cases\Case_CA11696.htm,KSS01603,Grata di protezione aperta
+files/Cases\Case_CA11698.htm,KSS02857,Sistema ripristinato dal modo ibernazione
+files/Cases\Case_CA11707.htm,KSS01506,Parametri del cerchio non permessi
+files/Cases\Case_CA11712.htm,KSS02829,OriJoint non possibile: configurazione delle posizioni inizio e fine differenti
+files/Cases\Case_CA11714.htm,KSS02829,OriJoint non possibile: configurazione delle posizioni inizio e fine differenti
+files/Cases\Case_CA11716.htm,KSS02936,$CP_STATMON: angolo asse errato
+files/Cases\Case_CA11718.htm,KSS02937,$CP_STATMON: Approssimazione non possibile
+files/Cases\Case_CA11721.htm,KSS02940,Limite Cycflag simultaneamente attivi ({Numero}) superato {ModuleLine}
+files/Cases\Case_CA11725.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA11727.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA11731.htm,KSS14010,Sistema ripristinato dal modo ibernazione
+files/Cases\Case_CA11743.htm,KSS26196,Errore su assi accoppiati ({Azionamento}) ({Tipo errore}).
+files/Cases\Case_CA11781.htm,KSS00336,Pacchetto Motion Cooperation non installato
+files/Cases\Case_CA11782.htm,KSS01347,Robot non calibrato
+files/Cases\Case_CA11788.htm,KSS02972,Errore checksum nel file {Nome file}
+files/Cases\Case_CA11797.htm,KSS02997,Jogging non permesso: pulsante Start premuto
+files/Cases\Case_CA11798.htm,KSS02998,Movimento asincrono attivo
+files/Cases\Case_CA11802.htm,KSS01005,Nessuna memoria del sistema disponibile
+files/Cases\Case_CA11804.htm,KSS01038,Modo operatore non valido
+files/Cases\Case_CA11807.htm,KSS01543,"Tutti gli ingressi analogici, ciclici occupati"
+files/Cases\Case_CA11808.htm,KSS01569,"Modifica del parametro non permessa, canale occupato"
+files/Cases\Case_CA11809.htm,KSS02004,Attesa DEFDAT
+files/Cases\Case_CA11810.htm,KSS02008,Frase non può essere modificata
+files/Cases\Case_CA11826.htm,KSS02010,Nome di una lista DAT non può essere modificato
+files/Cases\Case_CA11828.htm,KSS02047,Oggetto inesistente
+files/Cases\Case_CA11829.htm,KSS02032,Comando non permesso
+files/Cases\Case_CA11831.htm,KSS02051,Il nome nella prima riga deve essere uguale al nome del modulo
+files/Cases\Case_CA11833.htm,KSS02052,Nome del campo inserito non permesso
+files/Cases\Case_CA11834.htm,KSS02074,Attesa indici crescenti
+files/Cases\Case_CA11841.htm,KSS02086,Limite del campo mancante
+files/Cases\Case_CA11842.htm,KSS02106,Non si può cancellare la frase
+files/Cases\Case_CA11843.htm,KSS13036,Timeout consenso. Rilasciare il tasto di consenso e premerlo di nuovo.
+files/Cases\Case_CA11844.htm,KSS00416,Spegnimento controller ….
+files/Cases\Case_CA11846.htm,KSS02923,istruzione non permessa dentro blocco spline
+files/Cases\Case_CA11848.htm,KSS00301,Stop durante misurazione attiva-movimento consid.come test
+files/Cases\Case_CA11851.htm,KSS10094,{Nome istanza bus}: Errore di bus grave nella stazione {Modulo contenente errori}.
+files/Cases\Case_CA11879.htm,KSS01516,Sistema di riferimento non programmato
+files/Cases\Case_CA11918.htm,KSS03275,I moti di avanzamento nel PalMode sono consentiti solo con frasi singole PTP e SPTP.
+files/Cases\Case_CA11919.htm,KSS01366,Punti cartesiani non raggiungibili
+files/Cases\Case_CA11923.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA11925.htm,KSS02295,Componenti del campo non possono essere indicati
+files/Cases\Case_CA11926.htm,KSS02296,Non è un nome della costante di questo tipo
+files/Cases\Case_CA11958.htm,KSS03260,Riconfigurazione impossibile nello stato BUSPOWER OFF
+files/Cases\Case_CA11966.htm,KSS02360,Parametri superamento non permessi dentro a blocco spline
+files/Cases\Case_CA11968.htm,KSS02359,L'uso di questa istruzione KRL non è permessa dentro a blocco spline.
+files/Cases\Case_CA11970.htm,KSS02380,Istruzione in PTP_SPLINE non consentita.
+files/Cases\Case_CA11972.htm,KSS02363,Distanza-trigger con movimento spline inammissibile
+files/Cases\Case_CA11974.htm,KSS02255,"Espressione diversa da CHAR, INT, ENUM"
+files/Cases\Case_CA11976.htm,KSS02256,"Operando diverso da INT, REAL"
+files/Cases\Case_CA11978.htm,KSS03200,Azione non ammessa con il programma robot selezionato
+files/Cases\Case_CA11980.htm,KSS03158,{Nome del modulo} : Nome modulo inammissibile.
+files/Cases\Case_CA11982.htm,KSS03157,{Nome del modulo} : Nome più lungo di 24 caratteri
+files/Cases\Case_CA12061.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA12085.htm,KSS02098,Variabile non è dichiarata nella lista DAT
+files/Cases\Case_CA12090.htm,KSS15115,Arresto di sicurezza Stop 1 dall'esterno
+files/Cases\Case_CA12092.htm,KSS15117,Arresto di sicurezza Stop 2 dall'esterno
+files/Cases\Case_CA12229.htm,KSS02335,Segnale composto più di 32 Bit
+files/Cases\Case_CA12230.htm,KSS02144,Manca ENDLOOP
+files/Cases\Case_CA12231.htm,KSS02352,$OUT_C(n) non disponibile qui
+files/Cases\Case_CA12237.htm,KSS15040,Conferma: Superata velocità massima globale degli assi
+files/Cases\Case_CA12239.htm,KSS15042,Conferma: superata velocità assi a riduzione sicura
+files/Cases\Case_CA12241.htm,KSS15039,Conferma: Superata velocità massima cartesiana globale
+files/Cases\Case_CA12243.htm,KSS15041,Conferma: superata velocità cartesiana a riduzione sicura
+files/Cases\Case_CA12251.htm,KSS15019,Conferma: superata velocità massima specifica per asse nel modo T1
+files/Cases\Case_CA12266.htm,KSS15019,Conferma: superata velocità massima specifica per asse nel modo T1
+files/Cases\Case_CA12267.htm,KSS15046,L’errore era sull’interruttore di riferimento calibrazione
+files/Cases\Case_CA12268.htm,KSS15112,Monitoraggio tempo di impulso conferma regolazione violato
+files/Cases\Case_CA12269.htm,KSS15110,Livello sull’ingresso conferma calibrazione imprevisto High
+files/Cases\Case_CA12270.htm,KSS15114,Calibrazione confermata senza richiesta di riferimento
+files/Cases\Case_CA12271.htm,KSS15108,Errore all'ingresso di conferma calibrazione
+files/Cases\Case_CA12272.htm,KSS15065,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA12277.htm,KSS15039,Conferma: Superata velocità massima cartesiana globale
+files/Cases\Case_CA12278.htm,KSS15040,Conferma: Superata velocità massima globale degli assi
+files/Cases\Case_CA12280.htm,KSS15041,Conferma: superata velocità cartesiana a riduzione sicura
+files/Cases\Case_CA12348.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA12355.htm,KSS03170,Asse {Asse} non in posizione di zero meccanico
+files/Cases\Case_CA12359.htm,KSS14009,Boot non riuscito nel modulo: {Nome del modulo}
+files/Cases\Case_CA12373.htm,MadaConfiguration 00007,Non esistono parametri servo Supply per {0} con un’intensità del resistore di {1}
+files/Cases\Case_CA12429.htm,KSS00455,Errore di lettura di {File XML}
+files/Cases\Case_CA12466.htm,KSS12038,Monitoraggio della temperatura del trasformatore non attivato
+files/Cases\Case_CA12471.htm,KSS12003,Sovratemperatura trasformatore
+files/Cases\Case_CA12486.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA12584.htm,KSS13037,"Impossibile avviare stack di controllo Profinet, numero errore:{Codice}"
+files/Cases\Case_CA12586.htm,KSS13038,"Impossibile avviare stack del dispositivo Profinet, codice errore: {Codice}"
+files/Cases\Case_CA12588.htm,KSS13038,"Impossibile avviare stack del dispositivo Profinet, codice errore: {Codice}"
+files/Cases\Case_CA12592.htm,KSS13021,<{ID bus}> Errore rete Ethercat. {Dettagli} [{Dettagli}]
+files/Cases\Case_CA12594.htm,KSS27009,Efficacia freno{Freno n.}{Asse n.} OK
+files/Cases\Case_CA12596.htm,KSS13008,<{Nome istanza}> Errore bus Ethercat. {Parametro supplementare} {Parametro supplementare}
+files/Cases\Case_CA12597.htm,KSS13011,<{ID bus}> Errore di lettura file di configurazione [{Nome file XML}]
+files/Cases\Case_CA12598.htm,KSS13011,<{ID bus}> Errore di lettura file di configurazione [{Nome file XML}]
+files/Cases\Case_CA12599.htm,KSS13011,<{ID bus}> Errore di lettura file di configurazione [{Nome file XML}]
+files/Cases\Case_CA12600.htm,KSS13020,<{ID bus}> Errore bus Ethercat. Apparecchio: {Dettagli} [{Dettagli}]
+files/Cases\Case_CA12601.htm,KSS13013,<ECat> Errore durante la creazione di istanze dello stack ECat
+files/Cases\Case_CA12603.htm,KSS13015,<{ID bus}> Errore rete Ethercat scansione bus. Dispositivo: {Apparecchio errato} [{Informazione addizionale}]
+files/Cases\Case_CA12604.htm,KSS13020,<{ID bus}> Errore bus Ethercat. Apparecchio: {Dettagli} [{Dettagli}]
+files/Cases\Case_CA12607.htm,KSS13016,<{ID bus}> Mancata ricezione di frame di rete [{Dettagli}]
+files/Cases\Case_CA12609.htm,KSS13015,<{ID bus}> Errore rete Ethercat scansione bus. Dispositivo: {Apparecchio errato} [{Informazione addizionale}]
+files/Cases\Case_CA12612.htm,KSS13080,<{Istanza bus}> Apparecchio Ethercat: '{Nome dispositivo}' non può essere avviato. {Causa}
+files/Cases\Case_CA12616.htm,KSS13016,<{ID bus}> Mancata ricezione di frame di rete [{Dettagli}]
+files/Cases\Case_CA12617.htm,KSS13068,<{Istanza bus}> Partecipante EtherCAT {Nome apparecchio} non collegato al bus.
+files/Cases\Case_CA12620.htm,KSS13080,<{Istanza bus}> Apparecchio Ethercat: '{Nome dispositivo}' non può essere avviato. {Causa}
+files/Cases\Case_CA12661.htm,KSS13040,Errore di lettura di {File config.}
+files/Cases\Case_CA12666.htm,KSS13041,Errore di lettura dell'indirizzo MAC dal KLI
+files/Cases\Case_CA12671.htm,KSS02187,Serie di caratteri attesa
+files/Cases\Case_CA12672.htm,KSS01388,{Nome} Variabile protetta in scrittura nel modulo {Nome file} frase {Numero frase}
+files/Cases\Case_CA12728.htm,KSS02868,Posizione di destinazione PTP in singolarità {Denomínazione della singolarità}
+files/Cases\Case_CA12731.htm,KSS00320,Assi sono simulati {Bitmask of simulated axes}
+files/Cases\Case_CA12791.htm,Cross3Archive 00069,Ripristino annullato! Mancano i seguenti pacchetti tecnologici nell'archivio ({0}) o nel controllo ({1})!
+files/Cases\Case_CA12799.htm,KSS06503,Errore di configurazione driver I/O {Nome driver}
+files/Cases\Case_CA12803.htm,KSS14011,"Errore di boot nel file {Nome del file}, riga {Numero riga}: {Testo dell'errore}"
+files/Cases\Case_CA12812.htm,KSS13041,Errore di lettura dell'indirizzo MAC dal KLI
+files/Cases\Case_CA12967.htm,KSS10043,Timeout durante la creazione del collegamento all'apparecchio EIP {Nome}
+files/Cases\Case_CA12969.htm,KSS10045,Collegamento all'apparecchio EIP {Nome} interrotto.
+files/Cases\Case_CA12971.htm,KSS10046,Timeout durante la creazione del collegamento tra PLC e {Nome}
+files/Cases\Case_CA12974.htm,KSS10047,Interrotta connessione tra PLC e {Nome}
+files/Cases\Case_CA12975.htm,KSS10053,Collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome} interrotto
+files/Cases\Case_CA12977.htm,KSS10054,Timeout durante la creazione del collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome}
+files/Cases\Case_CA12979.htm,KSS10043,Timeout durante la creazione del collegamento all'apparecchio EIP {Nome}
+files/Cases\Case_CA12981.htm,KSS10045,Collegamento all'apparecchio EIP {Nome} interrotto.
+files/Cases\Case_CA12983.htm,KSS10046,Timeout durante la creazione del collegamento tra PLC e {Nome}
+files/Cases\Case_CA12986.htm,KSS10047,Interrotta connessione tra PLC e {Nome}
+files/Cases\Case_CA12987.htm,KSS10053,Collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome} interrotto
+files/Cases\Case_CA12989.htm,KSS10054,Timeout durante la creazione del collegamento ID {ID} (slot {ID}) all'apparecchio EIP {Nome}
+files/Cases\Case_CA13096.htm,Navigator 00030,Ripristino non riuscito
+files/Cases\Case_CA13101.htm,KSS03186,Azionamenti scaricati (causa: {Causa della scarica})
+files/Cases\Case_CA13104.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA13204.htm,KSS00200,Gli azionamenti non sono pronti.
+files/Cases\Case_CA13205.htm,KSS00200,Gli azionamenti non sono pronti.
+files/Cases\Case_CA13206.htm,KSS00200,Gli azionamenti non sono pronti.
+files/Cases\Case_CA13208.htm,KSS01388,{Nome} Variabile protetta in scrittura nel modulo {Nome file} frase {Numero frase}
+files/Cases\Case_CA13211.htm,KSS00003,Memoria tampone messaggi piena
+files/Cases\Case_CA13224.htm,KSS26128,Nessun collegamento con EMD
+files/Cases\Case_CA13226.htm,KSS00022,Sovratemperatura mainboard
+files/Cases\Case_CA13387.htm,KSS00072,RESUME non ammesso per interrupt globali
+files/Cases\Case_CA13391.htm,KSS15014,Errore di collegamento SmartPad
+files/Cases\Case_CA13643.htm,KSS01505,Combinazione delle variabili {Numero frase} non ammessa
+files/Cases\Case_CA13644.htm,KSS02285,Attesa nome del componente
+files/Cases\Case_CA13659.htm,KSS15019,Conferma: superata velocità massima specifica per asse nel modo T1
+files/Cases\Case_CA13664.htm,KSS03273,Spline troppo lunga
+files/Cases\Case_CA13666.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA13705.htm,SmartHMI  DialogMessageOpenViewFailure,Il modulo [{0}] non può essere caricato poiché si è verificato un errore durante l'inizializzazione di questa componente.
+files/Cases\Case_CA13720.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA13721.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA13728.htm,Cross3Archive 00024,Timeout in {0}!
+files/Cases\Case_CA13729.htm,Cross3Archive 00024,Timeout in {0}!
+files/Cases\Case_CA14007.htm,KSS15134,Conf.: Arresto tramite controllo di sicurezza prima del superamento del campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/Cases\Case_CA14129.htm,KSS03246,Conf.: Accoppiamento/disaccoppiamento non consentito per asse {Asse}
+files/Cases\Case_CA14227.htm,KSS27014,Dati configurazione non validi per il freno{Freno}{Asse} (codice errore {Codice di errore})
+files/Cases\Case_CA14238.htm,KSS13021,<{ID bus}> Errore rete Ethercat. {Dettagli} [{Dettagli}]
+files/Cases\Case_CA14243.htm,Navigator 00004,Errore archiviazione
+files/Cases\Case_CA14245.htm,Navigator 00004,Errore archiviazione
+files/Cases\Case_CA14254.htm,KSS27001,Il freno{Freno n.}{Asse n.} ha raggiunto il limite di usura
+files/Cases\Case_CA14255.htm,KSS27018,Nessun intervento del freno{Freno}{Asse} rilevato
+files/Cases\Case_CA14256.htm,KSS27007,Momento di mantenimento freno{Freno n.}{Asse n.} insufficiente
+files/Cases\Case_CA14262.htm,KSS00132,Freno difettoso {Numero di asse}.
+files/Cases\Case_CA14287.htm,KSS00099,Errore in lettura/scrittura: {Istanza bus}
+files/Cases\Case_CA14308.htm,KSS15135,Conf.: Arresto tramite controllo di sicurezza prima del superamento del campo cella.
+files/Cases\Case_CA14315.htm,KSS15058,Controllo in stato a prova di errori.
+files/Cases\Case_CA14333.htm,TVW00110,Macro di inizializzazione macro{MakroNumberSpecialRun} non disponibile. Inizializzazione impossibile.
+files/Cases\Case_CA14334.htm,TVW00110,Macro di inizializzazione macro{MakroNumberSpecialRun} non disponibile. Inizializzazione impossibile.
+files/Cases\Case_CA14336.htm,KSS27010,Impossibile verificare efficacia del freno{Freno}{Asse}
+files/Cases\Case_CA14339.htm,KSS27010,Impossibile verificare efficacia del freno{Freno}{Asse}
+files/Cases\Case_CA14342.htm,KSS27010,Impossibile verificare efficacia del freno{Freno}{Asse}
+files/Cases\Case_CA14347.htm,Cross3Archive 00061,"L'archiviazione su ""{0}"" non è configurata!"
+files/Cases\Case_CA14354.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA14909.htm,Simulate 00003,In attesa di {Espressione}
+files/Cases\Case_CA15183.htm,KSS01446,Assegnazione del valore non permessa: {Assegnazione} {ModuleLine}
+files/Cases\Case_CA15333.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA15334.htm,KSS12053,Il tipo di armadio configurato è incompatibile con la configurazione EtherCat
+files/Cases\Case_CA15336.htm,KSS00272,Numero robot non programmato.
+files/Cases\Case_CA15384.htm,KSS02038,Dichiarazione non è nella sezione di dichiarazione
+files/Cases\Case_CA15386.htm,KSS02039,Istruzione non è nella sezione di istruzione
+files/Cases\Case_CA15391.htm,KSS15049,Riferimento calibrazione fallito
+files/Cases\Case_CA15415.htm,KSS27007,Momento di mantenimento freno{Freno n.}{Asse n.} insufficiente
+files/Cases\Case_CA15496.htm,KSS01155,"Approssimazione non possibile, torsione eccessiva {+ (messaggio ridondante)}"
+files/Cases\Case_CA15524.htm,KSS13020,<{ID bus}> Errore bus Ethercat. Apparecchio: {Dettagli} [{Dettagli}]
+files/Cases\Case_CA15538.htm,KSS13020,<{ID bus}> Errore bus Ethercat. Apparecchio: {Dettagli} [{Dettagli}]
+files/Cases\Case_CA15539.htm,KSS26128,Nessun collegamento con EMD
+files/Cases\Case_CA15549.htm,KSS03122,$CIRC_MODE programmato in modo errato (regola {Causa} violata).
+files/Cases\Case_CA15552.htm,KSS03094,"$ORI_TYPE=#IGNORE non ammesso, causa {Causa}"
+files/Cases\Case_CA15638.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA15640.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA15644.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA15646.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA15653.htm,KSS13015,<{ID bus}> Errore rete Ethercat scansione bus. Dispositivo: {Apparecchio errato} [{Informazione addizionale}]
+files/Cases\Case_CA15966.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA16638.htm,KSS14005,Boot non riuscito nel modulo: {Nome del modulo}
+files/Cases\Case_CA16641.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA16987.htm,KSS26271,Conf.: Caricamento non riuscito (alimentatore {Alimentatore})
+files/Cases\Case_CA17026.htm,KSS01401,Struttura di controllo prossima frase {Numero frase}
+files/Cases\Case_CA17027.htm,KSS01401,Struttura di controllo prossima frase {Numero frase}
+files/Cases\Case_CA17028.htm,KSS01323,{Percorso} Nome modulo inammissibile
+files/Cases\Case_CA17031.htm,KSS01426,Nidificazione delle variabili troppo profonda
+files/Cases\Case_CA17032.htm,KSS01508,Nessun modulo disponibile
+files/Cases\Case_CA17033.htm,KSS01007,Il canale {Nome del canale} non può essere aperto
+files/Cases\Case_CA17034.htm,KSS01127,Calibrazione eseguita {Numero di asse}
+files/Cases\Case_CA17037.htm,KSS01422,{Variabile $} valore non valido
+files/Cases\Case_CA17045.htm,KSS01422,{Variabile $} valore non valido
+files/Cases\Case_CA17052.htm,KSS01422,{Variabile $} valore non valido
+files/Cases\Case_CA17053.htm,KSS01444,Indice di campo non permesso: {Variabili} {ModuleLine}
+files/Cases\Case_CA17054.htm,KSS01444,Indice di campo non permesso: {Variabili} {ModuleLine}
+files/Cases\Case_CA17066.htm,KSS02013,Unused
+files/Cases\Case_CA17067.htm,KSS02014,Unused
+files/Cases\Case_CA17071.htm,KSS01422,{Variabile $} valore non valido
+files/Cases\Case_CA17073.htm,KSS01422,{Variabile $} valore non valido
+files/Cases\Case_CA17260.htm,KSS02710,{Nome modulo} troppi sottoprogrammi locali
+files/Cases\Case_CA17296.htm,KSS03329,"Assegnazione a $MOTION_MODE non permessa, Motion Mode {Motion Mode specifico} non installata {ModuleLine}"
+files/Cases\Case_CA17298.htm,KSS03329,"Assegnazione a $MOTION_MODE non permessa, Motion Mode {Motion Mode specifico} non installata {ModuleLine}"
+files/Cases\Case_CA17301.htm,KSS15068,Codice di attivazione della configurazione di sicurezza non corretto.
+files/Cases\Case_CA17302.htm,KSS15068,Codice di attivazione della configurazione di sicurezza non corretto.
+files/Cases\Case_CA17333.htm,KSS13012,<{ID bus}> Errore di inizializzazione dello stack ECat [{Causa} {Causa 2}]
+files/Cases\Case_CA17471.htm,KSS03230,"L’arresto condizionato in {Nome modulo@n.riga, dov’è programmata la condizione di arresto} per movimento in {Nome modulo@numero riga del movimento attribuito [:nome punto]} si attiva in ritardo"
+files/Cases\Case_CA17473.htm,KSS03217,La distanza di frenata per CONST_VEL END in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/Cases\Case_CA17474.htm,KSS03216,La via di accelerazione per CONST_VEL START in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/Cases\Case_CA17475.htm,KSS01123,Approssimazione non possibile in {Nome modulo@numero riga[:nome punto]} {Causa - opzionale}
+files/Cases\Case_CA17476.htm,KSS01442,Sequenza delle istruzioni non approssimabile {Nome modulo@numero riga dell'istruzione} {+ (messaggio ridondante)}
+files/Cases\Case_CA17479.htm,KSS03171,Velocità 0m/s nel punto {Nome modulo@numero riga[:nome punto] del movimento} (punti di inizio e di fine identici)
+files/Cases\Case_CA17480.htm,KSS03217,La distanza di frenata per CONST_VEL END in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/Cases\Case_CA17481.htm,KSS03214,$VEL.CP = {Velocità programmata}m/s nel settore CONST_VEL non realizzabile per riduzione di velocità a {Velocità raggiunta}m/s in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante}.
+files/Cases\Case_CA17482.htm,KSS03215,CONST_VEL non realizzabile per riduzione di velocità a 0m/s in movimento in {Nome modulo@numero riga[:nome punto] del segmento causante}.
+files/Cases\Case_CA17483.htm,KSS03216,La via di accelerazione per CONST_VEL START in movimento in {Nome modulo@numero riga[:nome punto] del segmento limitante} è troppo corta. Invece di $VEL.CP = {Velocità programmata}m/s vengono raggiunti solo {Velocità raggiunta}m/s.
+files/Cases\Case_CA17484.htm,KSS01123,Approssimazione non possibile in {Nome modulo@numero riga[:nome punto]} {Causa - opzionale}
+files/Cases\Case_CA17485.htm,KSS01123,Approssimazione non possibile in {Nome modulo@numero riga[:nome punto]} {Causa - opzionale}
+files/Cases\Case_CA17486.htm,KSS01123,Approssimazione non possibile in {Nome modulo@numero riga[:nome punto]} {Causa - opzionale}
+files/Cases\Case_CA17517.htm,KSS00159,Errore bus IO KRC attivo per istanza bus: {Istanza bus}{Istanza bus}{Istanza bus}
+files/Cases\Case_CA17796.htm,KSS26051,Errore: sovraccarico circuito zavorra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17797.htm,KSS26123,Avvertenza: sovraccarico circuito zavorra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17800.htm,KSS26129,Tacca di calibrazione sporca o danneggiata
+files/Cases\Case_CA17802.htm,KSS26104,Avvertenza: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17803.htm,KSS26036,Errore: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17804.htm,KSS26107,Avvertenza: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17805.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17806.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17807.htm,KSS26108,Avvertenza: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17808.htm,KSS26035,Errore: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17816.htm,KSS26032,Errore: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17817.htm,KSS26107,Avvertenza: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17818.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17819.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17820.htm,KSS26123,Avvertenza: sovraccarico circuito zavorra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17821.htm,KSS26108,Avvertenza: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17822.htm,KSS26035,Errore: tensione del circuito intermedio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17827.htm,KSS26129,Tacca di calibrazione sporca o danneggiata
+files/Cases\Case_CA17828.htm,KSS26194,Calibrazione non consentita nello stato disaccoppiato {Azionamento}
+files/Cases\Case_CA17829.htm,KSS26195,Disaccoppiamento impossibile ({Azionamento}).
+files/Cases\Case_CA17832.htm,KSS26217,Conf.: Tempo frenatura dinamica ({Azionamento}).
+files/Cases\Case_CA17833.htm,KSS26218,Tempo frenatura dinamica {Tempo frenatura dinamica} sec. ({Azionamento}).
+files/Cases\Case_CA17834.htm,KSS26217,Conf.: Tempo frenatura dinamica ({Azionamento}).
+files/Cases\Case_CA17835.htm,KSS26218,Tempo frenatura dinamica {Tempo frenatura dinamica} sec. ({Azionamento}).
+files/Cases\Case_CA17854.htm,KSS26007,Velocità reale permessa ecceduta ({Azionamento}).
+files/Cases\Case_CA17855.htm,KSS26112,Avvertenza: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17856.htm,KSS26104,Avvertenza: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17857.htm,KSS26032,Errore: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17858.htm,KSS26040,Errore: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17862.htm,KSS26197,Non disponibile motore {Motore} per accoppiamento ad azionamento {Azionamento}.
+files/Cases\Case_CA17868.htm,KSS37026,"Elemento di catalogo per la regolazione non aggiornato (nexxtCtrl: {Azionamento}, {testarg_2}, {testarg_3})"
+files/Cases\Case_CA17869.htm,KSS26067,"CF: Configurazione non valida ({Azionamento}) ({Tipo di errore e di parametro}, indice={Indice parametri})."
+files/Cases\Case_CA17874.htm,KSS26252,Inizializzazione dell'azionamento errata ({Numero apparecchio}).
+files/Cases\Case_CA17892.htm,KSS26157,Conf.: Errore: carica del circuito intermedio fallita ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17899.htm,KSS26091,Superato limite max. variabile ritardo di posizionamento ({Azionamento}).
+files/Cases\Case_CA17900.htm,KSS26091,Superato limite max. variabile ritardo di posizionamento ({Azionamento}).
+files/Cases\Case_CA17903.htm,KSS26173,Massima forza permessa ecceduta ({Azionamento}).
+files/Cases\Case_CA17906.htm,KSS26034,Errore: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17907.htm,KSS26132,Errore: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17908.htm,KSS26034,Errore: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17909.htm,KSS26033,Errore: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17910.htm,KSS26105,Avviso: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17911.htm,KSS26106,Avvertenza: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17917.htm,KSS26113,Avvertenza: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17918.htm,KSS26041,Errore: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17919.htm,KSS26133,Avvertenza: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17920.htm,KSS26132,Errore: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17921.htm,KSS26113,Avvertenza: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17922.htm,KSS26041,Errore: mancanza fase motore ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17923.htm,KSS26133,Avvertenza: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17924.htm,KSS26132,Errore: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17929.htm,KSS26104,Avvertenza: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17930.htm,KSS26032,Errore: sovraccarico errore IxT ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17937.htm,KSS26122,Avvertenza: errore nel reostato di frenatura ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17938.htm,KSS26133,Avvertenza: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17939.htm,KSS26132,Errore: errore cumulativo freno ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17940.htm,KSS26050,Errore: errore nel reostato di frenatura ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17941.htm,KSS26036,Errore: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17946.htm,KSS26033,Errore: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17947.htm,KSS26230,Errore: Cortocircuito tiristore di carico ({Tipo di apparecchio}) ({Numero})
+files/Cases\Case_CA17948.htm,KSS26105,Avviso: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17949.htm,KSS26106,Avvertenza: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17950.htm,KSS26230,Errore: Cortocircuito tiristore di carico ({Tipo di apparecchio}) ({Numero})
+files/Cases\Case_CA17951.htm,KSS26105,Avviso: dispersione a terra ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17952.htm,KSS26034,Errore: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17953.htm,KSS26106,Avvertenza: sovracorrente ({Tipo di apparecchio}) ({Numero}) ({Codice errore}).
+files/Cases\Case_CA17954.htm,KSS26230,Errore: Cortocircuito tiristore di carico ({Tipo di apparecchio}) ({Numero})
+files/Cases\Case_CA17955.htm,KSS26037,Errore: tensione di alimentazione logica eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17956.htm,KSS26119,Avvertenza: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17957.htm,KSS26047,Errore: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17958.htm,KSS26037,Errore: tensione di alimentazione logica eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17959.htm,KSS26119,Avvertenza: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17960.htm,KSS26047,Errore: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17965.htm,KSS26042,Errore: errore di comunicazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA17966.htm,KSS26114,Avvertenza: errore di comunicazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18024.htm,KSS26112,Avvertenza: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18025.htm,KSS26040,Errore: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18026.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18027.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18047.htm,KSS26112,Avvertenza: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18048.htm,KSS26040,Errore: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18049.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18050.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18051.htm,KSS26112,Avvertenza: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18052.htm,KSS26040,Errore: temperatura del raffreddatore eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18053.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18083.htm,KSS26119,Avvertenza: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18084.htm,KSS26047,Errore: guasto alla rete di alimentazione ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18085.htm,KSS26046,Errore: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18086.htm,KSS26118,Avvertenza: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18087.htm,KSS26046,Errore: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18088.htm,KSS26118,Avvertenza: mancanza fasi di rete ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18092.htm,KSS26036,Errore: tensione del circuito intermedio troppo bassa ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18100.htm,KSS26252,Inizializzazione dell'azionamento errata ({Numero apparecchio}).
+files/Cases\Case_CA18105.htm,KSS25005,EDS sull'apparecchio {Denominazione gruppo} è vuoto. Mancano dati di calibrazione (errore {Numero di errore interno}).
+files/Cases\Case_CA18107.htm,KSS26111,Avvertenza: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18108.htm,KSS26039,Errore: temperatura dell'apparecchio eccessiva ({Tipo di apparecchio}) ({Numero}).
+files/Cases\Case_CA18245.htm,KSS01388,{Nome} Variabile protetta in scrittura nel modulo {Nome file} frase {Numero frase}
+files/Cases\Case_CA18250.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA18282.htm,KSS01153,Deviazione al punto iniziale di un movimento PTP
+files/Cases\Case_CA18400.htm,KSS01205,Conf. sorveglianza ciclo di interpolazione {Numero di asse} {Task}
+files/Cases\Case_CA18512.htm,KSS13073,Il driver IO EIP non riesce a rilevare l'indirizzo IP del KLI
+files/Cases\Case_CA18547.htm,KSS13041,Errore di lettura dell'indirizzo MAC dal KLI
+files/Cases\Case_CA18549.htm,KSS14011,"Errore di boot nel file {Nome del file}, riga {Numero riga}: {Testo dell'errore}"
+files/Cases\Case_CA18553.htm,KSS13073,Il driver IO EIP non riesce a rilevare l'indirizzo IP del KLI
+files/Cases\Case_CA18554.htm,KSS13072,Il driver IO EIP non riesce a rilevare l'indirizzo MAC del KLI
+files/Cases\Case_CA18555.htm,KSS13074,Il driver IO EIP non riesce a rilevare la maschera di sottorete del KLI
+files/Cases\Case_CA18556.htm,KSS13064,Lo stack EthernetIP non può essere impostato nello stato offline
+files/Cases\Case_CA18557.htm,KSS13066,Lo stack EthernetIP non può essere impostato nello stato online
+files/Cases\Case_CA18558.htm,KSS13067,Lo stack EthernetIP non può essere impostato nello stato in corso
+files/Cases\Case_CA18643.htm,KSS15149,"CIPS: NodeID errato (indirizzo IP), NodeID parametrizzato {NodeID parametrizzato} != NodeID ricevuto da PLC {NodeID ricevuto}."
+files/Cases\Case_CA4081.htm,KSS01457,Punto iniziale e punto intermedio uguali
+files/Cases\Case_CA4116.htm,SubmitControl 00010,"Interpreter {Modulo submit} non disponibile. ""Seleziona/Avvia"" non possibile."
+files/Cases\Case_CA4134.htm,SubmitControl 00010,"Interpreter {Modulo submit} non disponibile. ""Seleziona/Avvia"" non possibile."
+files/Cases\Case_CA4135.htm,KSS13018,<{ID bus}> Errore di inizializzazione dello stack ECat. Apparecchio: {Apparecchio contenente errori} [{Informazioni addizionali}]
+files/Cases\Case_CA4170.htm,KSS14000,Tensione bus di comando disattivata
+files/Cases\Case_CA4182.htm,KSS14001,Conf. disattivazione tensione bus di comando
+files/Cases\Case_CA4183.htm,KSS00148,Area di lavoro dell'asse n. {Numero area di lavoro} violata
+files/Cases\Case_CA4216.htm,KSS00474,"{Nome iosys.ini} Sezione[{Nome sezione}] riga {Riga errata}, intervallo indirizzi errato"
+files/Cases\Case_CA4239.htm,KSS00114,Area di lavoro n. {Numero area di lavoro} violata.
+files/Cases\Case_CA4240.htm,KSS00127,{Numero di asse} asse esterno asincrono
+files/Cases\Case_CA4242.htm,KSS01342,Errore campo di lavoro
+files/Cases\Case_CA4243.htm,KSS01362,STOP causato da cambio modalità operativa
+files/Cases\Case_CA4244.htm,KSS01342,Errore campo di lavoro
+files/Cases\Case_CA4245.htm,KSS01447,Punto non raggiungibile! Finecorsa software {Direzione di spostamento}{Numero di asse}
+files/Cases\Case_CA4246.htm,KSS01447,Punto non raggiungibile! Finecorsa software {Direzione di spostamento}{Numero di asse}
+files/Cases\Case_CA4247.htm,KSS01342,Errore campo di lavoro
+files/Cases\Case_CA4868.htm,KSS00011,Programma troppo complesso stack pieno
+files/Cases\Case_CA4869.htm,KSS00020,ARRESTO D'EMERGENZA esterno
+files/Cases\Case_CA4871.htm,KSS00207,Protezione operatore/grata di protezione aperte
+files/Cases\Case_CA4872.htm,KSS00207,Protezione operatore/grata di protezione aperte
+files/Cases\Case_CA4873.htm,KSS00304,Messa in servizio
+files/Cases\Case_CA4874.htm,KSS01008,Controller avviato a freddo
+files/Cases\Case_CA4875.htm,KSS01200,Conf. ARRESTO D'EMERGENZA
+files/Cases\Case_CA4877.htm,KSS01212,Conf. protezione operatore/grata di protezione chiuse
+files/Cases\Case_CA4878.htm,KSS01349,Robot calibrato
+files/Cases\Case_CA4879.htm,KSS01356,Premere tasto START
+files/Cases\Case_CA4880.htm,KSS01376,Comandi attivi bloccati
+files/Cases\Case_CA4881.htm,KSS03129,Protezione operatore confermata
+files/Cases\Case_CA4885.htm,KSS27009,Efficacia freno{Freno n.}{Asse n.} OK
+files/Cases\Case_CA4886.htm,KSS27010,Impossibile verificare efficacia del freno{Freno}{Asse}
+files/Cases\Case_CA4887.htm,KSS27011,Test freno{Freno}{Asse} eseguito non completamente
+files/Cases\Case_CA4888.htm,KSS27012,Test freno riuscito
+files/Cases\Case_CA4889.htm,KSS27017,L'attrito ostacola la verifica del freno{Freno}{Asse}
+files/Cases\Case_CA4891.htm,KSS27019,"Piena coppia del freno{Freno}{Asse} non verificabile, raggiunta coppia di tenuta motore"
+files/Cases\Case_CA4895.htm,KSS27023,Riduzione automatica del fattore di sicurezza per il freno{Freno}{Asse}
+files/Cases\Case_CA4906.htm,KSS00068,Manca consenso alla partenza
+files/Cases\Case_CA4935.htm,KSS00112,$TOOL non valido: sorveglianza dell'area di lavoro non possibile
+files/Cases\Case_CA4937.htm,KSS01350,Arrivato al SAK
+files/Cases\Case_CA5819.htm,KSS01355,Azionare pulsante uomo morto
+files/Cases\Case_CA5962.htm,KSS01358,Selezione necessaria
+files/Cases\Case_CA5977.htm,KSS00255,{$Variabile} Valore non valido
+files/Cases\Case_CA6384.htm,KSS01524,Numero massimo di triggers attivi
+files/Cases\Case_CA6483.htm,KSS01006,Capacità memoria user esaurita
+files/Cases\Case_CA6522.htm,KSS00203,Abilitazione generale del movimento
+files/Cases\Case_CA6538.htm,KSS00313,"Errore interno (file: {Nome file}, riga: {Numero riga}, valore: {Valore di ritorno})"
+files/Cases\Case_CA6600.htm,KSS26128,Nessun collegamento con EMD
+files/Cases\Case_CA6660.htm,KSS15016,Conferma: Arresto per violazione del monitoraggio in stato di inattività
+files/Cases\Case_CA6666.htm,KSS15050,Stop di riferimento
+files/Cases\Case_CA6668.htm,KSS15033,Più di un utensile attivato nel controllo di sicurezza
+files/Cases\Case_CA6669.htm,KSS15035,Nessun utensile attivato nel controllo di sicurezza
+files/Cases\Case_CA6670.htm,KSS15019,Conferma: superata velocità massima specifica per asse nel modo T1
+files/Cases\Case_CA6688.htm,KSS10020,{Nome istanza} Errore di accesso al gruppo di collegamento
+files/Cases\Case_CA6689.htm,KSS10020,{Nome istanza} Errore di accesso al gruppo di collegamento
+files/Cases\Case_CA6690.htm,KSS10021,{Nome istanza} in attesa di avvio 'esterno' dell'Interbus
+files/Cases\Case_CA6691.htm,KSS10029,{Nome istanza} Nessun circuito master o slave attivato
+files/Cases\Case_CA6698.htm,KSS10024,{Nome istanza} Slave-ID della scheda ({Slave-ID della scheda}) diverso da quello nel file XML ({Slave-ID nel file XML})
+files/Cases\Case_CA6711.htm,KSS00108,Frenata dinamica attiva
+files/Cases\Case_CA6718.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/Cases\Case_CA6719.htm,KSS01350,Arrivato al SAK
+files/Cases\Case_CA6721.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/Cases\Case_CA6722.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/Cases\Case_CA6723.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/Cases\Case_CA6727.htm,KSS15051,Conferma: posizione di riferimento calibrazione non raggiunta
+files/Cases\Case_CA6731.htm,KSS00287,Errore ventola PC
+files/Cases\Case_CA6743.htm,KSS15034,Conferma: Più di un utensile attivato nel controllo di sicurezza
+files/Cases\Case_CA6744.htm,KSS15036,Conferma: Nessun utensile attivato nel controllo di sicurezza
+files/Cases\Case_CA6752.htm,KSS15018,Conferma: superata velocità massima cartesiana nel modo T1
+files/Cases\Case_CA6760.htm,KSS01372,Processo attivo
+files/Cases\Case_CA6771.htm,KSS10016,{Nome istanza} bit qualità trasmissione attivato.
+files/Cases\Case_CA6785.htm,KSS00115,Liberare area di lavoro n. {Numero area di lavoro}.
+files/Cases\Case_CA6786.htm,KSS03166,Start a freddo iniziale
+files/Cases\Case_CA6802.htm,KSS00147,Liberare area di lavoro dell'asse n. {Numero area di lavoro}
+files/Cases\Case_CA6805.htm,KSS15052,Conferma: interruttore di riferimento calibrazione non azionato
+files/Cases\Case_CA6808.htm,KSS06503,Errore di configurazione driver I/O {Nome driver}
+files/Cases\Case_CA6809.htm,KSS01421,{Nome oggetto} : {Numero errore} Errore analisi
+files/Cases\Case_CA6814.htm,KSS01309,Oggetto inesistente
+files/Cases\Case_CA6988.htm,KSS27004,Test freni necessario
+files/Cases\Case_CA6990.htm,KSS27004,Test freni necessario
+files/Cases\Case_CA6992.htm,ConfigMon 00001,Gruppi non disponibili per l'utente corrente
+files/Cases\Case_CA6993.htm,ConfigMon 00001,Gruppi non disponibili per l'utente corrente
+files/Cases\Case_CA6994.htm,KSS27002,Verifica ciclica per richiesta test freno non rispettata
+files/Cases\Case_CA6995.htm,KSS27002,Verifica ciclica per richiesta test freno non rispettata
+files/Cases\Case_CA6996.htm,KSS10006,{Nome istanza} Errore apertura file {Nome file}
+files/Cases\Case_CA6997.htm,KSS10006,{Nome istanza} Errore apertura file {Nome file}
+files/Cases\Case_CA6998.htm,KSS10006,{Nome istanza} Errore apertura file {Nome file}
+files/Cases\Case_CA6999.htm,KSS10006,{Nome istanza} Errore apertura file {Nome file}
+files/Cases\Case_CA7007.htm,KSS10033,{Nome istanza} Errore di connessione al firmware
+files/Cases\Case_CA7008.htm,KSS10033,{Nome istanza} Errore di connessione al firmware
+files/Cases\Case_CA7026.htm,KSS01458,Punti intermedio e finale uguali
+files/Cases\Case_CA7180.htm,KSS00203,Abilitazione generale del movimento
+files/Cases\Case_CA7181.htm,KSS00203,Abilitazione generale del movimento
+files/Cases\Case_CA7193.htm,KSS02274,Tipo parametro attuale/formale incompatibile
+files/Cases\Case_CA7194.htm,KSS02275,Tipo parametro attuale/formale incompatibile
+files/Cases\Case_CA7197.htm,KSS03237,Una misurazione dell'energia è già attiva
+files/Cases\Case_CA7198.htm,KSS03238,Impossibile arrestare attualmente la misurazione dell'energia.
+files/Cases\Case_CA7199.htm,KSS03238,Impossibile arrestare attualmente la misurazione dell'energia.
+files/Cases\Case_CA7200.htm,KSS02125,Componente non appartiene al tipo
+files/Cases\Case_CA7204.htm,KSS02078,Attesa nome del segnale predefinito identico
+files/Cases\Case_CA7208.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7209.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7211.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7212.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7214.htm,KSS03236,Impossibile avviare attualmente la misurazione dell'energia.
+files/Cases\Case_CA7216.htm,KSS15012,Errore tasto di consenso
+files/Cases\Case_CA7228.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7229.htm,KSS10010,{Nome istanza} Errore di bus nel circuito slave
+files/Cases\Case_CA7230.htm,KSS10024,{Nome istanza} Slave-ID della scheda ({Slave-ID della scheda}) diverso da quello nel file XML ({Slave-ID nel file XML})
+files/Cases\Case_CA7231.htm,KSS10008,{Nome istanza} Restart non viene eseguito perché non sono presenti errori.
+files/Cases\Case_CA7244.htm,KSS03070,File mam non disponibile. Errore {Causa dell'errore}
+files/Cases\Case_CA7316.htm,KSS00149,Velocità cartesiana ancora limitata in T2
+files/Cases\Case_CA7320.htm,KSS15012,Errore tasto di consenso
+files/Cases\Case_CA7405.htm,KSS01456,Punto iniziale uguale al punto finale
+files/Cases\Case_CA7454.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA7486.htm,SubmitControl 00010,"Interpreter {Modulo submit} non disponibile. ""Seleziona/Avvia"" non possibile."
+files/Cases\Case_CA7667.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA7801.htm,KSS00001,ARRESTO D'EMERGENZA
+files/Cases\Case_CA7802.htm,KSS00001,ARRESTO D'EMERGENZA
+files/Cases\Case_CA7857.htm,KSS13018,<{ID bus}> Errore di inizializzazione dello stack ECat. Apparecchio: {Apparecchio contenente errori} [{Informazioni addizionali}]
+files/Cases\Case_CA7953.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA8004.htm,KSS00470,Riduzione Safe robot override attiva
+files/Cases\Case_CA8005.htm,KSS00470,Riduzione Safe robot override attiva
+files/Cases\Case_CA8008.htm,KSS15012,Errore tasto di consenso
+files/Cases\Case_CA8025.htm,KSS06503,Errore di configurazione driver I/O {Nome driver}
+files/Cases\Case_CA8076.htm,KSS13068,<{Istanza bus}> Partecipante EtherCAT {Nome apparecchio} non collegato al bus.
+files/Cases\Case_CA8124.htm,KSS15101,Apparecchio sicuro {Apparecchio}: errore sull'ingresso {Ingresso}
+files/Cases\Case_CA8185.htm,KSS15053,Conf.: Gruppo di riferimento calibrazione n. {Numero del gruppo di riferimento} non referenziato
+files/Cases\Case_CA8213.htm,KSS15048,Conferma: Intervallo di tempo per riferimento calibrazione scaduto
+files/Cases\Case_CA8375.htm,KSS00067,Confermare protezione operatore
+files/Cases\Case_CA8382.htm,KSS15037,Superamento campo cella
+files/Cases\Case_CA8384.htm,KSS15081,Superato campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/Cases\Case_CA8386.htm,KSS15079,Violato campo di sorveglianza n. {Numero del campo di sorveglianza}
+files/Cases\Case_CA8470.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA8474.htm,KSS01074,Comando torsione motore {Numero di asse}
+files/Cases\Case_CA8480.htm,KSS03201,Superato errore di posizionamento {Numero asse} durante modalità di coppia
+files/Cases\Case_CA8551.htm,KSS13039,Errore di inizializzazione del firmware Profinet
+files/Cases\Case_CA8586.htm,KSS01133,Coppia massima asse {Numero di asse} superata
+files/Cases\Case_CA8591.htm,KSS15054,Sorveglianze campo di lavoro disattivate (errore di calibrazione)
+files/Cases\Case_CA8592.htm,KSS15049,Riferimento calibrazione fallito
+files/Cases\Case_CA8611.htm,KSS15018,Conferma: superata velocità massima cartesiana nel modo T1
+files/Cases\Case_CA8613.htm,KSS01100,Inattività {(Numero asse)}
+files/Cases\Case_CA8639.htm,KSS00287,Errore ventola PC
+files/Cases\Case_CA8646.htm,KSS02162,Carattere inserito errato
+files/Cases\Case_CA8655.htm,KSS01141,TTS non esistente
+files/Cases\Case_CA8657.htm,KSS01141,TTS non esistente
+files/Cases\Case_CA8693.htm,KSS13025,"Mouse-6D spostato-mosso dalla posizione di zero, rilasciare e premere tasto uomo-morto."
+files/Cases\Case_CA8720.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA8754.htm,KSS26177,Incremento valore forza nel controllo forza mancante ({Azionamento}).
+files/Cases\Case_CA8795.htm,KSS12017,Protezione operatore non confermata
+files/Cases\Case_CA8810.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA8815.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA8817.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA8819.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA8848.htm,KSS15042,Conferma: superata velocità assi a riduzione sicura
+files/Cases\Case_CA8951.htm,KSS01443,Movimento iniziale non permesso
+files/Cases\Case_CA9016.htm,KSS01102,Velocità nominale {Numero di asse}
+files/Cases\Case_CA9070.htm,KSS03266,Confermare per proseguire il funzionamento di T2 con velocità impostata.
+files/Cases\Case_CA9133.htm,KSS15002,Errore di comunicazione apparecchio sicuro {Apparecchio}
+files/Cases\Case_CA9138.htm,KSS03263,Durata max. di frenata in MADA ($RED_ACC_EMX) e controllo di sicurezza inconsistenti
+files/Cases\Case_CA9230.htm,KSS03199,SETINFO su {Nome variabile KRL} ({Luogo di dichiarazione}) sospeso
+files/Cases\Case_CA9235.htm,KSS01447,Punto non raggiungibile! Finecorsa software {Direzione di spostamento}{Numero di asse}
+files/Cases\Case_CA9245.htm,KSS15074,"Errore nel nodo di sicurezza dell'azionamento {Nome apparecchio}, canale {Numero canale}"
+files/Cases\Case_CA9253.htm,KSS00404,Arresto di sicurezza
+files/Cases\Case_CA9411.htm,KSS06503,Errore di configurazione driver I/O {Nome driver}
+files/Cases\Case_CA9451.htm,KSS00106,Eseguire calibrazione {Numero di asse}
+files/Cases\Case_CA9477.htm,KSS27022,Il modo operativo T1 impedisce l'esecuzione del test freni
+files/Cases\Case_CA9485.htm,KSS01402,Scegliere avviamento
+files/Cases\Case_CA9582.htm,KSS01424,Troppi programmi selezionati {Posizione}
+files/Cases\Case_CA9583.htm,KSS00205,Finecorsa software {Direzione di spostamento} {Numero di asse}
+files/Cases\Case_CA9690.htm,KSS15107,Errore all'ingresso di conferma calibrazione
+files/Cases\Case_CA9697.htm,KSS15127,Conf.: Arresto tramite sorveglianza zona di lavoro
+files/Cases\Case_CA9708.htm,KSS12032,scostamento di posizione (controllo del movimento <-> controllo di sicurezza)
+files/Cases\Case_CA9743.htm,KSS27021,Gli assi simulati impediscono l'esecuzione del test freni
+files/Cases\Case_CA9760.htm,KSS27020,Gli assi asincroni impediscono l'esecuzione del test freni
+files/Cases\Case_CA9774.htm,KSS15045,Errore interruttore di riferimento calibrazione
+files/Cases\Case_CA9778.htm,KSS15045,Errore interruttore di riferimento calibrazione
+files/Cases\Case_CA9783.htm,KSS15045,Errore interruttore di riferimento calibrazione
+files/Cases\Case_CA9785.htm,KSS15045,Errore interruttore di riferimento calibrazione
+files/Cases\Case_CA9786.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA9789.htm,KSS15066,Livello Low inatteso sull'interruttore di riferimento calibrazione
+files/Cases\Case_CA9815.htm,KSS10019,{Nome istanza} Restart già in esecuzione
+files/Cases\Case_CA9869.htm,KSS01072,Momento di mantenimento freno {Numero di asse} superato
+files/Cases\Case_CA9905.htm,KSS00151,La velocità impostata deve essere ancora confermata dopo aver premuto il tasto di consenso
+files/Cases\Case_CA9910.htm,KSS00263,Dati cambiati difettosi
+files/Cases\Case_CA9984.htm,KSS00309,Selezione blocco: necessario ricercare SAK in T1/T2
+files/Cases\Case_CA9987.htm,KSS00249,$MOVE_ENABLE Configurazione non consentita
